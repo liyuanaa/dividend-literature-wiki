@@ -1,0 +1,38 @@
+---
+title: "TAX MANAGEMENT AND INVESTMENT STRATEGIES OF PROPERTY-LIABILITY INSURERS"
+authors: ["CUMMINS, JD", "GRACE, E"]
+year: 1994
+slug: cummins-1994-tax-management-and-investment-strategies-of-property-liability
+tags: ["governance-regulation", "dividend-policy"]
+journal: "JOURNAL OF BANKING & FINANCE"
+doi: "10.1016/0378-4266(94)00078-6"
+raw_markdown: "[[raw_markdown/papers/cummins-1994-tax-management-and-investment-strategies-of-property-liability]]"
+status: canonical
+---
+
+# TAX MANAGEMENT AND INVESTMENT STRATEGIES OF PROPERTY-LIABILITY INSURERS (1994)
+
+> **Paper claim** — The Tax Reform Act (TRA) of 1986 reduced the incentives for institutional investors to participate in the tax exempt bond market.
+
+Raw markdown: [[raw_markdown/papers/cummins-1994-tax-management-and-investment-strategies-of-property-liability]]
+
+## Bibliographic Record
+
+- **Authors:** CUMMINS, JD, GRACE, E
+- **Journal:** JOURNAL OF BANKING & FINANCE
+- **Year:** 1994
+- **DOI:** 10.1016/0378-4266(94)00078-6
+- **Relevance score:** 4.0分
+- **Matched themes:** 监管/治理(institution, reform)；股利政策(dividend)
+
+## Abstract
+
+The Tax Reform Act (TRA) of 1986 reduced the incentives for institutional investors to participate in the tax exempt bond market. This paper develops a model of profit maximization incorporating the TRA provisions applicable to property-liability (PL) insurers. The theory predicts that PL insurers will use underwriting losses to shelter taxable investment income and invest the balance of their portfolios in tax favored securities. Our empirical evidence reveals that insurers continued to invest in tax exempts following the TRA, suggesting that implicit tax rates are low enough to attract insurers into the long-term tax exempt market. However, insurers reduced the proportions of income derived from tax exempt interest and dividends following the TRA.
+
+## 摘要（中文）
+
+1986年的《税收改革法案》（TRA）降低了机构投资者参与免税债券市场的激励。本文构建了一个纳入了适用于财产—责任（PL）保险公司的TRA条款的利润最大化模型。该理论预测，PL保险公司将利用承保损失来庇护应税投资收入，并将其组合的余额投资于税收优惠证券。我们的经验证据揭示，保险公司在TRA之后继续投资于免税债券，这表明隐含税率低到足以吸引保险公司进入长期免税市场。然而，保险公司在TRA之后降低了来自免税利息和股利的收入比例。
+
+## Notes
+
+Abstract-only record — no full text is available for this paper in the corpus. Synthesis pages citing this source draw on the abstract above.
