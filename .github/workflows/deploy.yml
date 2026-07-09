@@ -1,0 +1,68 @@
+name: Deploy Wiki to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "web/**"
+      - "wiki/**"
+      - "scripts/export_wiki.py"
+      - ".github/workflows/deploy.yml"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; a newer push cancels an in-flight run.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.10.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: pnpm
+          cache-dependency-path: web/pnpm-lock.yaml
+      - id: pages
+        uses: actions/configure-pages@v5
+      - name: Build search index
+        run: python scripts/export_wiki.py
+      - name: Install web dependencies
+        run: pnpm install --frozen-lockfile
+        working-directory: web
+      - name: Build static site
+        working-directory: web
+        env:
+          STATIC_EXPORT: "true"
+          NEXT_PUBLIC_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          NEXT_PUBLIC_ENABLE_CHAT: "false"
+          WIKI_DIR: ../wiki
+          NEXT_PUBLIC_SITE_TITLE: "Regulation & Dividend Policy Wiki"
+          NEXT_PUBLIC_SITE_DESCRIPTION: "A Wikipedia-style synthesis of 735 papers on how regulation, governance, and monitoring shape corporate dividend/payout policy."
+        run: pnpm build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

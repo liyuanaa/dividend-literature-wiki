@@ -5,10 +5,13 @@ import { usePathname } from "next/navigation";
 import { MessageSquare, Search, Library } from "lucide-react";
 import { siteConfig } from "@/lib/site-config";
 
+// Chat is hidden on backendless deploys (siteConfig.chatEnabled === false).
 const LINKS = [
   { href: "/search", label: "Search", icon: Search },
   { href: "/wiki", label: "Browse", icon: Library },
-  { href: "/", label: "Chat", icon: MessageSquare },
+  ...(siteConfig.chatEnabled
+    ? [{ href: "/", label: "Chat", icon: MessageSquare }]
+    : []),
 ];
 
 /**
@@ -22,7 +25,7 @@ export function Nav() {
   return (
     <header className="relative z-50 flex h-12 flex-shrink-0 items-center gap-1 border-b border-zinc-200/70 bg-[#f7f8fa] px-3 dark:border-white/10 dark:bg-[#1b1c1d]">
       <Link
-        href="/"
+        href={siteConfig.chatEnabled ? "/" : "/wiki"}
         className="mr-2 min-w-0 max-w-[45vw] truncate px-2 text-sm font-semibold text-zinc-800 sm:max-w-none dark:text-zinc-100"
       >
         {siteConfig.title}

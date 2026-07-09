@@ -6,6 +6,7 @@ import { Search as SearchIcon } from "lucide-react";
 import MiniSearch from "minisearch";
 import { CHIP_CLASS, layerLabel } from "@/lib/wiki-ui";
 import { siteConfig } from "@/lib/site-config";
+import { withBasePath } from "@/lib/base-path";
 
 /** One page record in `/wiki-index.json` (built by `scripts/export_wiki.py`). */
 type IndexPage = {
@@ -96,7 +97,7 @@ export default function SearchPage() {
   // Load + index the wiki index on mount.
   useEffect(() => {
     let cancelled = false;
-    fetch("/wiki-index.json", { cache: "no-store" })
+    fetch(withBasePath("/wiki-index.json"), { cache: "no-store" })
       .then(async (res) => {
         if (res.status === 404) throw new Error("__MISSING__");
         if (!res.ok) throw new Error(`HTTP ${res.status}`);

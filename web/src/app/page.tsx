@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
 import { Menu, X } from "lucide-react";
 import { Thread } from "@/components/assistant-ui/thread";
 import { ThreadList } from "@/components/assistant-ui/thread-list";
@@ -8,8 +9,16 @@ import { ExportButton } from "@/components/export-button";
 import { siteConfig } from "@/lib/site-config";
 
 export default function Home() {
+  const router = useRouter();
   const [drawerOpen, setDrawerOpen] = useState(false);
   const closeDrawer = () => setDrawerOpen(false);
+
+  // On a backendless deploy (Chat hidden) the home page has no Chat to show, so
+  // send visitors straight to Browse. Kept ABOVE any early return so Hook order
+  // is stable (Rules of Hooks).
+  useEffect(() => {
+    if (!siteConfig.chatEnabled) router.replace("/wiki");
+  }, [router]);
 
   // Lock background scroll while the mobile drawer is open so the page behind
   // it cannot rubber-band/drift. Scoped to drawer-open only (the app shell never
@@ -22,6 +31,9 @@ export default function Home() {
       document.body.style.overflow = prev;
     };
   }, [drawerOpen]);
+
+  // Backendless deploy: render nothing (the effect above redirects to /wiki).
+  if (!siteConfig.chatEnabled) return null;
 
   return (
     <div className="flex h-full w-full overflow-hidden bg-[#fdfcfc] dark:bg-[#131314]">

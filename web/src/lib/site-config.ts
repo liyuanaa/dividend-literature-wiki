@@ -13,4 +13,7 @@ export const siteConfig = {
     process.env.NEXT_PUBLIC_SITE_GREETING ?? "How can I help you today?",
   composerPlaceholder:
     process.env.NEXT_PUBLIC_SITE_PLACEHOLDER ?? "Ask the literature wiki…",
+  // Chat is on by default; a static/backendless deploy (e.g. GitHub Pages)
+  // sets NEXT_PUBLIC_ENABLE_CHAT=false to hide the Chat surface entirely.
+  chatEnabled: process.env.NEXT_PUBLIC_ENABLE_CHAT !== "false",
 };
