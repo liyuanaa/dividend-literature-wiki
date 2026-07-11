@@ -1,3 +1,18 @@
+> Full text available from PDF conversion (markitdown).
+
+# Individual Investors' Dividend Taxes and Corporate Payout Policies
+
+- **Authors:** Li, Oliver Zhen; Liu, Hang; Ni, Chenkai; Ye, Kangtao
+- **Journal:** Journal of Financial and Quantitative Analysis
+- **Year:** 2017
+- **DOI:** 10.1017/S0022109017000199
+
+## Abstract
+
+The 2012 Dividend Tax Reform in China ties individual investors' dividend tax rates to the length of their shareholding period. We find that firms facing a reduction (increase) in their individual investors' dividend tax rates are more (less) likely to increase dividend payout. Such an effect is concentrated in firms where incentives of controlling shareholders and minority shareholders are aligned. Furthermore, investors respond to this tax law change by reducing trading activities before the cum-dividend day and successfully lower their dividend tax penalty. Overall, our evidence enhances the notion that individual investors' tax profiles shape firms' payout policies.
+
+## Original Content from PDF Conversion
+
 # Individual Investors' Dividend Taxes and Corporate Payout Policies
 
 - **Authors:** Li, OZ, Liu, H, Ni, CK, Ye, KT

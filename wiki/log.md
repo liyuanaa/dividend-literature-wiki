@@ -25,3 +25,5 @@ Append-only log of all wiki operations.
 - Lint: py_compile OK; check_links — no broken links; validate_frontmatter — passed; orphans — only log.md (structural).
 
 ## [2026-07-08] lint | Full lint pass — 0 real issues (template-placeholder links excluded)
+
+## [2026-07-11] ingest | 35 full-text PDFs ingested — 11 abstract entries supplemented with full text, 23 new source pages created, synthesis/concept layer enriched; lint clean (1 structural orphan: log.md)

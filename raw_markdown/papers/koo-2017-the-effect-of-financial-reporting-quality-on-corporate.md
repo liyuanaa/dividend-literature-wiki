@@ -1,3 +1,18 @@
+> Full text available from PDF conversion (markitdown).
+
+# The Effect of Financial Reporting Quality on Corporate Dividend Policy
+
+- **Authors:** Koo, David S.; Ramalingegowda, Santhosh; Yu, Yong
+- **Journal:** Review of Accounting Studies
+- **Year:** 2017
+- **DOI:** 10.1007/s11142-017-9393-3
+
+## Abstract
+
+This study examines how financial reporting quality affects corporate dividend policy. We find that higher quality reporting is associated with higher dividends. This positive association is more pronounced among firms with more severe free cash flow problems and among firms with higher ownership by monitoring-type institutional investors. Further analysis of the relation between reporting quality and under-/over-payment of dividends suggests that reporting quality largely mitigates underpayment of dividends. Additionally, both a granger causality test and a difference-in-difference analysis of dividend changes around a quasi-exogenous reporting event yield evidence consistent with the direction of causality going from financial reporting to dividends. Overall, these findings are consistent with financial reporting quality acting as a governance mechanism that induces managers to pay dividends by disciplining free cash flow problems. Our findings support the view that dividends are the result of enhanced monitoring (Jensen 1986; La Porta, Lopez-de-Silanes, Shleifer, and Vishny 2000).
+
+## Original Content from PDF Conversion
+
 # The effect of financial reporting quality on corporate dividend policy
 
 - **Authors:** Koo, DS, Ramalingegowda, S, Yu, Y

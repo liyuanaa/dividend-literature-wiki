@@ -33,6 +33,14 @@ We find that Chinese-listed firms are more likely to pay dividends and implement
 
 我们发现，当董事拥有海外经历时，中国上市企业更可能支付股利并实施更大的支付率。这一发现在使用各种方法处理潜在内生性顾虑之后依然成立。这一正相关关系对于低成长企业、非国有企业，以及董事在投资者保护更强的国家获得海外经历的情形更强。董事海外经历对股利支付的影响，对于独立董事也比执行董事更为显著。拥有海外经历的董事似乎克服了薄弱的投资者保护环境，因为这些效应在治理不佳的企业中、以及在2013年监管股利改革之前更为显著。总体而言，我们的发现识别出了一种更好治理实践得以传播的机制。
 
+## Key Findings
+
+- Chinese listed firms with a higher proportion of directors who have foreign experience are significantly more likely to pay dividends and have larger payout ratios; a one-standard-deviation increase in Directors FE is associated with a 2.17 percentage-point increase in the likelihood of paying dividends.
+- The effect is primarily driven by independent directors rather than executive directors (1.93 pp vs. 0.92 pp on dividend likelihood), consistent with FE directors using dividends as a monitoring tool to reduce agency costs of free cash flows.
+- The positive effect is stronger for non-SOE firms, low-growth (mature) firms, firms with weak corporate governance, and when foreign experience is gained in countries with stronger investor protection — all consistent with FE directors substituting for absent formal governance.
+- The effect of directors' foreign experience on dividend payouts is more pronounced before the 2013 CSRC/SSE dividend regulations, demonstrating that external regulatory requirements substitute for the governance role of FE directors.
+- Both foreign study experience and foreign work experience contribute independently to higher dividend payouts, and results are robust to IV estimation (using Christian missionary college count and board network instruments) and Heckman selection correction.
+
 ## Notes
 
-Abstract-only record — no full text is available for this paper in the corpus. Synthesis pages citing this source draw on the abstract above.
+Full text available via PDF (markitdown conversion).

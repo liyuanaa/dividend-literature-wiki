@@ -33,6 +33,14 @@ Costs are sticky on average, that is, they fall less for sales decreases than th
 
 成本平均而言是粘性的，也就是说，成本在销售下降时的减少幅度小于其在等量销售增加时的上升幅度。我们考察了这种非对称成本行为对企业股利政策的影响。鉴于投资者对削减股利的厌恶，我们预测，具有更高资源调整成本和更粘性成本的企业比其同侪派发更低的股利，因为它们在未来更不能维持任何更高水平的股利支付。我们发现的证据与这一预测相一致。此外，利用一个利用由势均力敌的工会选举所产生的劳动调整成本差异的断点回归设计，我们提供的证据表明，成本粘性与股利支付之间的负相关关系是由资源调整成本所驱动的。我们的论文为股利政策的决定因素提供了新的启示，并展示了成本行为在公司决策中的作用。
 
+## Key Findings
+
+- Firms with stickier costs exhibit **3.3% lower dividend payouts per one-standard-deviation increase in cost stickiness** in OLS regressions controlling for firm size, leverage, Tobin's Q, earnings quality and volatility, and industry-by-year fixed effects (N = 87,807 firm-years, 1978–2016).
+- Results are **robust to three alternative cost stickiness measures** (industry-level, operating cost-based, total cost-based) and five alternative dividend payout measures, all showing a consistent negative relation of 2.2–5.0% economic magnitude.
+- **Regression discontinuity using close-call union elections** provides causal evidence: firms where union elections barely passed pay 44.3% lower annual dividends per share over the subsequent four years than firms where elections barely failed, mediated by higher post-election cost stickiness.
+- **Two-step mediation analysis** shows that the negative effect of unionization on dividends operates specifically through the cost stickiness channel (predicted DPS coefficient −0.337, p < 5%; residual DPS coefficient insignificant), not through other mechanisms.
+- The negative cost-stickiness/payout relation is **concentrated in financially constrained firms** (below-median cash or retained earnings), consistent with the resource adjustment cost mechanism rather than empire-building or managerial expectations.
+
 ## Notes
 
-Abstract-only record — no full text is available for this paper in the corpus. Synthesis pages citing this source draw on the abstract above.
+Full text available via PDF (markitdown conversion).

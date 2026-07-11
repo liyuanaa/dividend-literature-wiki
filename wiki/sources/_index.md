@@ -749,6 +749,23 @@ One canonical page per paper. Abstract-only bibliographic records (735 papers). 
 - [[yara-2021-value-return-predictability-across-asset-classes-and-commonalities]] — Value Return Predictability across Asset Classes and Commonalities in Risk Premia (2021)
 - [[zwiebel-1996-dynamic-capital-structure-under-managerial-entrenchment]] — Dynamic capital structure under managerial entrenchment (1996)
 
+## Full-text PDF ingest (2026-07-11) (13)
+
+Papers added from full-text PDFs not previously in the abstract corpus.
+
+- [[cao-2017-foreign-institutional-investors-and-dividend-policy-evidence-from-china]] — Foreign institutional investors and dividend policy: Evidence from China (Cao et al., 2017)
+- [[cao-zhiming-2026-ai-technology-corporate-dividends]] — 人工智能技术应用与企业股利分配：影响与机制 (曹智铭 et al., 2026)
+- [[caskey-hanlon-2013-dividend-policy-at-firms-accused-of-accounting-fraud]] — Dividend Policy at Firms Accused of Accounting Fraud (Caskey & Hanlon, 2013)
+- [[denis-osobov-why-do-rms-pay-dividends-international-evidence-on-the-determinants]] — Why Do Firms Pay Dividends? International Evidence on the Determinants of Dividend Policy (Denis & Osobov)
+- [[ellahie-kaplan-2021-show-me-the-money-dividend-policy-in-countries-with-weak-ins]] — Show Me the Money! Dividend Policy in Countries with Weak Institutions (Ellahie & Kaplan, 2021)
+- [[faulkner-garca-feijo-2022-hot-stove-effects-the-impact-of-ceo-past-corporate-exp]] — Hot-Stove Effects: The Impact of CEO Past Corporate Experiences on Dividend Policy (Faulkner & García-Feijóo, 2022)
+- [[ham-do-dividends-convey-information-about-future-earnings]] — Do Dividends Convey Information About Future Earnings? (Ham et al.)
+- [[kumar-vergara-alert-2020-the-effect-of-financial-flexibility-on-payout-policy]] — The Effect of Financial Flexibility on Payout Policy (Kumar & Vergara-Alert, 2020)
+- [[luo-qi-2024-dividend-catering-review]] — 公司股利迎合行为：研究述评与展望 (罗琦 et al., 2024)
+- [[michaely-moin-2022-disappearing-and-reappearing-dividends]] — Disappearing and Reappearing Dividends (Michaely & Moin, 2022)
+- [[song-2025-digital-finance-and-dividend-policy-evidence-from-china]] — Digital Finance and Dividend Policy: Evidence from China (Song et al., 2025)
+- [[zhang-mingwei-2026-equity-investment-dividends-cost-of-equity]] — 参股企业现金股利分配与上市公司权益资本成本 (张明威 et al., 2026)
+
 ## Navigation
 
 - Return to [[wiki/_index]] for the full wiki map.
