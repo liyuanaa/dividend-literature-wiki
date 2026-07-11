@@ -63,3 +63,41 @@ Several questions remain genuinely open. The first is de jure versus de facto pr
 **Synthesis:** [[international-evidence-on-dividends]] · [[bank-payout-and-prudential-regulation]] · [[political-and-policy-uncertainty-and-payout]] · [[mm-irrelevance-and-payout-puzzles]]
 
 **Sources:** [[laporta-2000-agency-problems-and-dividend-policies-around-the-world]] · [[bae-2021-board-reforms-and-dividend-policy-international-evidence]] · [[brockman-2014-the-impact-of-insider-trading-laws-on-dividend]] · [[hail-2014-dividend-payouts-and-information-shocks]] · [[glendening-2016-the-market-for-corporate-control-and-dividend-policies]] · [[chen-2020-corporate-governance-and-cash-holdings-evidence-from-worldwide]]
+
+## References
+
+Agrawal, A. K. (2013). The impact of investor protection law on corporate policy and performance: Evidence from the blue sky laws. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2012.08.019
+
+Alzahrani, M., & Lasfer, M. (2012). Investor protection, taxation, and dividends. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2012.06.003
+
+Atanassov, J., & Mandell, A. J. (2018). Corporate governance and dividend policy: Evidence of tunneling from master limited partnerships. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2018.10.004
+
+Bae, K. H., El Ghoul, S., Guedhami, O., & Zheng, X. L. (2021). Board Reforms and Dividend Policy: International Evidence. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109020000319
+
+Brockman, P., Tresl, J., & Unlu, E. (2014). The impact of insider trading laws on dividend payout policy. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.09.002
+
+Chen, R. Y., Guedhami, O., Yang, Y., & Zaynutdinova, G. R. (2020). Corporate governance and cash holdings: Evidence from worldwide board reforms. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2020.101771
+
+Colombo, J. A., & Caldeira, J. F. (2018). The role of taxes and the interdependence among corporate financial policies: Evidence from a natural experiment. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2017.09.007
+
+Ellahie, A., & Kaplan, Z. (2021). Show Me the Money! Dividend Policy in Countries with Weak Institutions. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12363
+
+Fang, H. Y., Song, Z. H., Nofsinger, J. R., & Wang, Y. Y. (2017). Trading restrictions and firm dividends: The share lockup expiration experience in China. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2017.08.012
+
+Glendening, M., Khurana, L. K., & Wang, W. (2016). The market for corporate control and dividend policies: Cross-country evidence from M&A laws. *Journal of International Business Studies*. https://doi.org/10.1057/s41267-016-0028-x
+
+Hail, L., Tahoun, A., & Wang, C. (2014). Dividend Payouts and Information Shocks. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12040
+
+He, W., & Li, C. K. (2018). The effects of a comply-or-explain dividend regulation in China. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2018.07.002
+
+Huang, J. J., Shen, Y. F., & Sun, Q. (2011). Nonnegotiable shares, controlling shareholders, and dividend payments in China. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2010.09.007
+
+La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. W. (2000). Agency problems and dividend policies around the world. *Journal of Finance*. https://doi.org/10.1111/0022-1082.00199
+
+La Porta, R., Lopez-De-Silanes, F., Shleifer, A., & Vishny, R. (2000). Investor protection and corporate governance. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00065-9
+
+Moortgat, L., Annaert, J., & Deloof, M. (2017). Investor protection, taxation and dividend policy: Long-run evidence, 1838-2012. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2017.08.013
+
+Pinkowitz, L., Stulz, R., & Williamson, R. (2006). Does the contribution of corporate cash holdings and dividends to firm value depend on governance? A cross-country analysis. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2006.01003.x
+
+Price, R., Román, F. J., & Rountree, B. (2011). The impact of governance reform on performance and transparency. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2010.08.005

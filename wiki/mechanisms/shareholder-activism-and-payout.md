@@ -49,3 +49,27 @@ Reconciling the two headline findings — activists commonly demand payout, yet 
 - Debates: [[substitute-vs-outcome-model]], [[dividends-signaling-vs-free-cash-flow]], [[dividend-repurchase-substitution]]
 - Synthesis: [[regulation-governance-and-payout-overview]], [[international-evidence-on-dividends]]
 - Major sources: [[cao-2022-soft-activism-and-corporate-dividend-policy-evidence-from]], [[kim-2009-value-of-outside-blockholder-activism-evidence-from-the]], [[yeh-2017-determinants-and-consequences-of-shareholder-proposals-the-cases]], [[lin-2023-minority-shareholder-voting-and-dividend-policy]], [[krishnan-2016-the-second-wave-of-hedge-fund-activism-the]]
+
+## References
+
+Brunarski, K. R., Campbell, T. C., & Harman, Y. S. (2015). Evidence on the outcome of Say-On-Pay votes: How managers, directors, and shareholders respond. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.12.007
+
+Cao, J., Wang, H. Y., & Zhou, S. L. (2022). Soft activism and corporate dividend policy: Evidence from institutional investors site visits. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2022.102221
+
+Cherkes, M., Sagi, J. S., & Wang, Z. J. (2014). Managed Distribution Policies in Closed-End Funds and Shareholder Activism. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109014000544
+
+Crane, A. D., Michenaud, S., & Weston, J. P. (2016). The Effect of Institutional Ownership on Payout Policy: Evidence from Index Thresholds. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhw012
+
+Firth, M., Gao, J., Shen, J. H., & Zhang, Y. Y. (2016). Institutional stock ownership and firms' cash dividend policies: Evidence from China. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2016.01.009
+
+Harford, J., Kecskés, A., & Mansi, S. (2018). Do long-term investors improve corporate decision making?. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2017.09.022
+
+Kim, W., Kim, W., & Kwon, K. S. (2009). Value of outside blockholder activism: Evidence from the switchers. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2009.04.002
+
+Krishnan, C. N. V., Partnoy, F., & Thomas, R. S. (2016). The second wave of hedge fund activism: The importance of reputation, clout, and expertise. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2016.08.009
+
+Lin, J., Li, F., Zheng, S. X., & Zhou, M. S. (2023). Minority shareholder voting and dividend policy. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2022.106748
+
+Mori, N., & Ikeda, N. (2015). Majority support of shareholders, monitoring incentive, and dividend policy. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.10.015
+
+Yeh, T. M. (2017). Determinants and consequences of shareholder proposals: The cases of board election, charter amendment, and profit disposal. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2017.05.004

@@ -79,3 +79,31 @@ The central open question is when uncertainty raises versus cuts payout, and the
 - [[chang-2024-climate-risk-and-payout-flexibility-around-the-world]]
 - [[cejnek-2021-the-covid-19-pandemic-and-corporate-dividend-policy]]
 - [[hossain-2021-political-corruption-and-corporate-payouts]]
+
+## References
+
+Attig, N., El Ghoul, S., Guedhami, O., & Zheng, X. L. (2021). Dividends and economic policy uncertainty: International evidence. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2020.101785
+
+Balachandran, B., & Nguyen, J. H. (2018). Does carbon risk matter in firm dividend policy? Evidence from a quasi-natural experiment in an imputation environment. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2018.09.015
+
+Bayat, A., & Goergen, M. (2025). CEO political ideology and payout policy. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2024.107375
+
+Bayat, A., Goergen, M., Koutroumpis, P., & Wei, X. J. (2025). The impact of CEO political ideology on labor cost reductions and payout decisions during the COVID-19 pandemic. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2024.102692
+
+Buchanan, B. G., Cao, C. X., Liljeblom, E., & Weihrich, S. (2017). Uncertainty and firm dividend policy-A natural experiment. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2016.11.008
+
+Bui, L. T. (2025). Democracy, dividends, and corporate valuation. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2025.102879
+
+Cejnek, G., Randl, O., & Zechner, J. (2021). The COVID-19 Pandemic and Corporate Dividend Policy. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109021000533
+
+Chang, Y. Y., He, W., & Mi, L. (2024). Climate risk and payout flexibility around the world. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2024.107233
+
+Cumming, D., Lu, F. Y., Xu, L. M., & Yu, C. F. (2024). Are Companies Offloading Risk onto Employees in Times of Uncertainty? Insights from Corporate Pension Plans. *Journal of Business Ethics*. https://doi.org/10.1007/s10551-024-05655-6
+
+Guedhami, O., Kwok, C. C. Y., & Shao, L. (2017). Political freedom and corporate payouts. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2017.02.002
+
+Hossain, A. T., Hossain, T., & Kryzanowski, L. (2021). Political corruption and corporate payouts. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2020.106016
+
+Huang, T., Wu, F., Yu, J., & Zhang, B. H. (2015). Political risk and dividend policy: Evidence from international political crises. *Journal of International Business Studies*. https://doi.org/10.1057/jibs.2015.2
+
+Luo, P. F., & Tian, Y. (2022). Investment, payout, and cash management under risk and ambiguity. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2022.106551

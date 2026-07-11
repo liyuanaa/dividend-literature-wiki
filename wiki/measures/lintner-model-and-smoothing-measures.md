@@ -69,3 +69,27 @@ Three measurement questions remain unresolved. The first is whether the dividend
 **Synthesis:** [[mm-irrelevance-and-payout-puzzles]] · [[international-evidence-on-dividends]]
 
 **Major sources:** [[andres-2015-the-lintner-model-revisited-dividends-versus-total-payouts]] · [[aivazian-2006-dividend-smoothing-and-debt-ratings]] · [[leary-2011-determinants-of-dividend-smoothing-empirical-evidence]] · [[lambrecht-2012-a-lintner-model-of-payout-and-managerial-rents]] · [[chen-2012-dividend-smoothing-and-predictability]]
+
+## References
+
+Aivazian, V. A., Booth, L., & Cleary, S. (2006). Dividend smoothing and debt ratings. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109000002131
+
+Andres, C., Doumet, M., Fernau, E., & Theissen, E. (2015). The Lintner model revisited: Dividends versus total payouts. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2015.01.005
+
+Andres, C., & Hofbaur, U. (2017). Do what you did four quarters ago: Trends and implications of quarterly dividends. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2017.01.003
+
+Chemmanur, T. J., He, J., Hu, G., & Liu, H. (2010). Is dividend smoothing universal? New insights from a comparative study of dividend policies in Hong Kong and the US. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2010.03.001
+
+Chen, L., Da, Z., & Priestley, R. (2012). Dividend Smoothing and Predictability. *Management Science*. https://doi.org/10.1287/mnsc.1120.1528
+
+Javakhadze, D., Ferris, S. P., & Sen, N. (2014). An international analysis of dividend smoothing. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.09.007
+
+Karpavicius, S. (2014). Dividends: Relevance, rigidity, and signaling. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2013.12.014
+
+Lambrecht, B. M., & Myers, S. C. (2012). A Lintner Model of Payout and Managerial Rents. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2012.01772.x
+
+Leary, M. T., & Michaely, R. (2011). Determinants of Dividend Smoothing: Empirical Evidence. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhr072
+
+Rangvid, J., Schmeling, M., & Schrimpf, A. (2014). Dividend Predictability Around the World. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109014000477
+
+Wu, Y. F. (2018). What's behind Smooth Dividends? Evidence from Structural Estimation. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhx119

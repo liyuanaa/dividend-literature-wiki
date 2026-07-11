@@ -59,3 +59,41 @@ The evidence sorts cleanly by clientele type. Tax-based clienteles — especiall
 - Debates: [[dividend-repurchase-substitution]]
 - Synthesis: [[mm-irrelevance-and-payout-puzzles]], [[international-evidence-on-dividends]]
 - Major sources: [[allen-2000-a-theory-of-dividends-based-on-tax-clienteles]], [[desai-2011-institutional-tax-clienteles-and-payout-policy]], [[grinstein-2005-institutional-holdings-and-payout-policy]], [[becker-2011-local-dividend-clienteles]], [[brav-2005-payout-policy-in-the-21st-century]], [[denis-2008-why-do-firms-pay-dividends-international-evidence-on]]
+
+## References
+
+Allen, F., Bernardo, A. E., & Welch, I. (2000). A theory of dividends based on tax clienteles. *Journal of Finance*. https://doi.org/10.1111/0022-1082.00298
+
+Becker, B., Ivkovic, Z., & Weisbenner, S. (2011). Local Dividend Clienteles. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2010.01645.x
+
+Brav, A., Graham, J. R., Harvey, C. R., & Michaely, R. (2005). Payout policy in the 21st century. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2004.07.004
+
+Chetty, R., & Saez, E. (2005). Dividend taxes and corporate behavior: Evidence from the 2003 dividend tax cut. *Quarterly Journal of Economics*. https://doi.org/10.1162/003355305774268174
+
+Crane, A. D., Michenaud, S., & Weston, J. P. (2016). The Effect of Institutional Ownership on Payout Policy: Evidence from Index Thresholds. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhw012
+
+Denis, D. J., Denis, D. K., & Sarin, A. (1994). The Information-Content of Dividend Changes - Cash Flow Signaling, Overinvestment, and Dividend Clienteles. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.2307/2331110
+
+Denis, D. J., & Osobov, I. (2008). Why do firms pay dividends? International evidence on the determinants of dividend policy. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.06.006
+
+Desai, M. A., & Jin, L. (2011). Institutional tax clienteles and payout policy. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2010.10.013
+
+Dong, M., Robinson, C., & Veld, C. (2005). Why individual investors want dividends. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2004.04.006
+
+Golubov, A., Lasfer, M., & Vitkova, V. (2020). Active catering to dividend clienteles: Evidence from takeovers. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2020.04.002
+
+Grinstein, Y., & Michaely, R. (2005). Institutional holdings and payout policy. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2005.00765.x
+
+Harris, L. E., Hartzmark, S. M., & Solomon, D. H. (2015). Juicing the dividend yield: Mutual funds and the demand for dividends. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2015.04.001
+
+Hsieh, J., & Wang, Q. H. (2008). Insiders' tax preferences and firms' choices between dividends and share repurchases. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109000002805
+
+Korkeamaki, T., Liljeblom, E., & Pasternack, D. (2010). Tax reform and payout policy: Do shareholder clienteles or payout policy adjust?. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2009.12.003
+
+Krieger, K., Lee, B. S., & Mauck, N. (2013). Do senior citizens prefer dividends? Local clienteles vs. firm characteristics. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2013.08.002
+
+Lie, E., & Lie, H. J. (1999). The role of personal taxes in corporate decisions: An empirical analysis of share repurchases and dividends. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.2307/2676233
+
+Renneboog, L., & Trojanowski, G. (2011). Patterns in payout policy and payout channel choice. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2010.10.028
+
+Short, H., Zhang, H., & Keasey, K. (2002). The link between dividend policy and institutional ownership. *Journal of Corporate Finance*. https://doi.org/10.1016/S0929-1199(01)00030-X

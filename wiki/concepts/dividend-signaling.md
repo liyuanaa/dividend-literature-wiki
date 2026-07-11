@@ -53,3 +53,51 @@ Faced with returns that do not track future earnings levels, recent work has re-
 - Measures: [[lintner-model-and-smoothing-measures]]
 - Synthesis: [[mm-irrelevance-and-payout-puzzles]], [[bank-payout-and-prudential-regulation]]
 - Major sources: [[denis-1994-the-information-content-of-dividend-changes-cash-flow]], [[benartzi-1997-do-changes-in-dividends-signal-the-future-or]], [[michaely-2021-signaling-safety]], [[skinner-2011-what-do-dividends-tell-us-about-earnings-quality]], [[garrett-2000-dividend-behavior-and-dividend-signaling]]
+
+## References
+
+Aggarwal, R., Cao, J., & Chen, F. (2012). Information Environment, Dividend Changes, and Signaling: Evidence from ADR Firms. *Contemporary Accounting Research*. https://doi.org/10.1111/j.1911-3846.2011.01101.x
+
+Al-Yahyaee, K. H., Pham, T. M., & Walter, T. S. (2011). The information content of cash dividend announcements in a unique environment. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2010.03.004
+
+Amihud, Y., & Li, K. F. (2006). The declining information content of dividend announcements and the effects of institutional holdings. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109000002568
+
+Benartzi, S., Michaely, R., & Thaler, R. (1997). Do changes in dividends signal the future or the past?. *Journal of Finance*. https://doi.org/10.2307/2329514
+
+Bernheim, B. D., & Wantz, A. (1995). A Tax-Based Test of the Dividend Signaling Hypothesis. *American Economic Review*.
+
+Brav, A., Graham, J. R., Harvey, C. R., & Michaely, R. (2005). Payout policy in the 21st century. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2004.07.004
+
+Chemmanur, T. J., Paeglis, I., & Simonyan, K. (2009). Management Quality, Financial and Investment Policies, and Asymmetric Information. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109009990299
+
+Chemmanur, T. J., & Tian, X. (2014). Communicating Private Information to the Equity Market Before a Dividend Cut: An Empirical Analysis. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109014000672
+
+Cheng, L., Chen, Y., & Liu, F. (2025). How do dividends signal when they are highly volatile?. *Pacific-Basin Finance Journal*. https://doi.org/10.1016/j.pacfin.2025.102794
+
+Das, S., Schaberl, P. D., & Sen, P. K. (2024). Analysts' use of dividends in earnings forecasts. *Review of Accounting Studies*. https://doi.org/10.1007/s11142-022-09735-8
+
+Denis, D. J., Denis, D. K., & Sarin, A. (1994). The Information-Content of Dividend Changes - Cash Flow Signaling, Overinvestment, and Dividend Clienteles. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.2307/2331110
+
+Dewenter, K. L., & Warther, V. A. (1998). Dividends, asymmetric information, and agency conflicts: Evidence from a comparison of the dividend policies of Japanese and US firms. *Journal of Finance*. https://doi.org/10.1111/0022-1082.00038
+
+Garrett, I., & Priestley, R. (2000). Dividend behavior and dividend signaling. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.2307/2676189
+
+Hail, L., Tahoun, A., & Wang, C. (2014). Dividend Payouts and Information Shocks. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12040
+
+Ham, C. G., Kaplan, Z. R., & Leary, M. T. (2020). Do dividends convey information about future earnings?. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2019.10.006
+
+Ham, C. G., Kaplan, Z. R., & Utke, S. (2023). Attention to dividends, inattention to earnings?. *Review of Accounting Studies*. https://doi.org/10.1007/s11142-021-09642-4
+
+Hausch, D. B., & Seward, J. K. (1993). Signaling with Dividends and Share Repurchases - a Choice Between Deterministic and Stochastic Cash Disbursements. *Review of Financial Studies*. https://doi.org/10.1093/rfs/6.1.121
+
+Kale, J. R., Kini, O., & Payne, J. D. (2012). The Dividend Initiation Decision of Newly Public Firms: Some Evidence on Signaling with Dividends. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109012000063
+
+Karpavicius, S. (2014). Dividends: Relevance, rigidity, and signaling. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2013.12.014
+
+Kumar, P. (1988). Shareholder-Manager Conflict and the Information Content of Dividends. *Review of Financial Studies*. https://doi.org/10.1093/rfs/1.2.111
+
+Michaely, R., Thaler, R. H., & Womack, K. L. (1995). Price Reactions to Dividend Initiations and Omissions - Overreaction or Drift. *Journal of Finance*. https://doi.org/10.2307/2329420
+
+Michaely, R., Rossi, S., & Weber, M. (2021). Signaling safety. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2020.08.013
+
+Skinner, D. J., & Soltes, E. (2011). What do dividends tell us about earnings quality?. *Review of Accounting Studies*. https://doi.org/10.1007/s11142-009-9113-8

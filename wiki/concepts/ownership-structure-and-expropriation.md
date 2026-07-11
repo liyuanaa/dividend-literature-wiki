@@ -51,3 +51,35 @@ Two robust regularities emerge across radically different legal settings. First,
 - Debates: [[substitute-vs-outcome-model]], [[investor-protection-and-payout]], [[dividends-signaling-vs-free-cash-flow]]
 - Synthesis: [[regulation-governance-and-payout-overview]], [[international-evidence-on-dividends]]
 - Major sources: [[faccio-2001-dividends-and-expropriation]], [[atanassov-2018-corporate-governance-and-dividend-policy-evidence-of-tunneling]], [[kim-2022-tunneling-through-trademarks]], [[berkman-2009-expropriation-through-loan-guarantees-to-related-parties-evidence]], [[huang-2011-nonnegotiable-shares-controlling-shareholders-and-dividend-payments-in]]
+
+## References
+
+Atanassov, J., & Mandell, A. J. (2018). Corporate governance and dividend policy: Evidence of tunneling from master limited partnerships. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2018.10.004
+
+Berkman, H., Cole, R. A., & Fu, L. J. (2009). Expropriation through loan guarantees to related parties: Evidence from China. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2007.11.001
+
+Carney, M., & Gedajlovic, E. (2002). The coupling of ownership and control and the allocation of financial resources: Evidence from Hong Kong. *Journal of Management Studies*. https://doi.org/10.1111/1467-6486.00285
+
+Chan, R. S. Y., Fan, L., & Song, B. Y. (2022). Unintended Benefits of Mandatory Dividend Regulations on Investment Efficiency: Evidence from China. *Accounting and Finance*. https://doi.org/10.1111/acfi.12829
+
+Faccio, M., Lang, L. H. P., & Young, L. (2001). Dividends and expropriation. *American Economic Review*. https://doi.org/10.1257/aer.91.1.54
+
+Francisco, U. I. (2009). Too few dividends? Groups' tunneling through chair and board compensation. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2008.11.002
+
+Gu, Z. H., Sun, W., & Zhou, F. S. (2024). Cultural Origin and Minority Shareholder Expropriation: Historical Evidence. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12517
+
+He, T. T., Li, W. X. B., & Tang, G. Y. N. (2012). Dividends Behavior in State- Versus Family-Controlled Firms: Evidence from Hong Kong. *Journal of Business Ethics*. https://doi.org/10.1007/s10551-011-1150-0
+
+Huang, J. J., Shen, Y. F., & Sun, Q. (2011). Nonnegotiable shares, controlling shareholders, and dividend payments in China. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2010.09.007
+
+Jiang, F., Cai, X., Jiang, Z., & Nofsinger, J. R. (2019). Multiple Large Shareholders and Dividends: Evidence from China. *Pacific-Basin Finance Journal*. https://doi.org/10.1016/j.pacfin.2019.101201
+
+Kim, S., & Kim, W. (2022). Tunneling through trademarks. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2022.102274
+
+Lin, C., Liu, H., Ni, C. K., & Zhang, B. H. (2023). State Controlling Shareholders and Payout Policy. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109022001132
+
+Yoshikawa, T., & Rasheed, A. A. (2010). Family Control and Ownership Monitoring in Family-Controlled Firms in Japan. *Journal of Management Studies*. https://doi.org/10.1111/j.1467-6486.2009.00891.x
+
+Zeng, S., Qu, Z., & Zhou, K. (2026). Tunneling and dividend payouts: A tale of agency conflicts in China. *Journal of Accounting and Public Policy*. https://doi.org/10.1016/j.jaccpubpol.2025.107401
+
+Zerni, M., Kallunki, J. P., & Nilsson, H. (2010). The Entrenchment Problem, Corporate Governance Mechanisms, and Firm Value. *Contemporary Accounting Research*. https://doi.org/10.1111/j.1911-3846.2010.01043.x

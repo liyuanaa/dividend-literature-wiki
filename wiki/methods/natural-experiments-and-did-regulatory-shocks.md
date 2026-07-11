@@ -53,3 +53,33 @@ Because the assumptions are strong, credible papers pair the headline DiD with a
 **Synthesis:** [[regulation-governance-and-payout-overview]] · [[international-evidence-on-dividends]] · [[political-and-policy-uncertainty-and-payout]]
 
 **Sources:** [[bae-2021-board-reforms-and-dividend-policy-international-evidence]] · [[agrawal-2013-the-impact-of-investor-protection-law-on-corporate]] · [[chen-2020-corporate-governance-and-cash-holdings-evidence-from-worldwide]] · [[colombo-2018-the-role-of-taxes-and-the-interdependence-among]] · [[glendening-2016-the-market-for-corporate-control-and-dividend-policies]]
+
+## References
+
+Agrawal, A. K. (2013). The impact of investor protection law on corporate policy and performance: Evidence from the blue sky laws. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2012.08.019
+
+Bae, K. H., El Ghoul, S., Guedhami, O., & Zheng, X. L. (2021). Board Reforms and Dividend Policy: International Evidence. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109020000319
+
+Banerjee, S., Humphery-Jenner, M., & Nanda, V. (2015). Restraining Overconfident CEOs through Improved Governance: Evidence from the Sarbanes-Oxley Act. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhv034
+
+Buchanan, B. G., Cao, C. X., Liljeblom, E., & Weihrich, S. (2017). Uncertainty and firm dividend policy-A natural experiment. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2016.11.008
+
+Chen, R. Y., Guedhami, O., Yang, Y., & Zaynutdinova, G. R. (2020). Corporate governance and cash holdings: Evidence from worldwide board reforms. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2020.101771
+
+Colombo, J. A., & Caldeira, J. F. (2018). The role of taxes and the interdependence among corporate financial policies: Evidence from a natural experiment. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2017.09.007
+
+Dang, V. A., De Cesari, A., & Phan, H. (2021). Employment protection and share repurchases: Evidence from wrongful discharge laws. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2021.102036
+
+Fang, H. Y., Song, Z. H., Nofsinger, J. R., & Wang, Y. Y. (2017). Trading restrictions and firm dividends: The share lockup expiration experience in China. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2017.08.012
+
+Glendening, M., Khurana, L. K., & Wang, W. (2016). The market for corporate control and dividend policies: Cross-country evidence from M&A laws. *Journal of International Business Studies*. https://doi.org/10.1057/s41267-016-0028-x
+
+Hail, L., Tahoun, A., & Wang, C. (2014). Dividend Payouts and Information Shocks. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12040
+
+He, W., & Li, C. K. (2018). The effects of a comply-or-explain dividend regulation in China. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2018.07.002
+
+Isakov, D., Pérignon, C., & Weisskopf, J. P. (2021). What If Dividends Were Tax-Exempt? Evidence from a Natural Experiment. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhab010
+
+Ni, X. R., Song, W., & Yao, J. Q. (2020). Stakeholder orientation and corporate payout policy: Insights from state legal shocks. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2020.105970
+
+Wang, Z. G., Yin, Q. E., & Yu, L. P. (2021). Real effects of share repurchases legalization on corporate behaviors. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2020.10.008

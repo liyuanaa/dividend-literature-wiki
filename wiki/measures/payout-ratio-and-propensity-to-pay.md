@@ -51,3 +51,21 @@ Several recurring traps distort inference. The first is treating incidence as in
 - Measures: [[lintner-model-and-smoothing-measures]]
 - Synthesis: [[mm-irrelevance-and-payout-puzzles]], [[international-evidence-on-dividends]]
 - Major sources: [[fama-2001-disappearing-dividends-changing-firm-characteristics-or-lower-propensity]], [[grullon-2011-has-the-propensity-to-pay-out-declined]], [[michaely-2022-disappearing-and-reappearing-dividends]], [[deangelo-2006-dividend-policy-and-the-earned-contributed-capital-mix]], [[denis-2008-why-do-firms-pay-dividends-international-evidence-on]]
+
+## References
+
+Banyi, M. L., & Kahle, K. M. (2014). Declining propensity to pay? A re-examination of the lifecycle theory. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.06.001
+
+DeAngelo, H., DeAngelo, L., & Stulz, R. M. (2006). Dividend policy and the earned/contributed capital mix: a test of the life-cycle theory. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2005.07.005
+
+Denis, D. J., & Osobov, I. (2008). Why do firms pay dividends? International evidence on the determinants of dividend policy. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.06.006
+
+Fama, E. F., & French, K. R. (2001). Disappearing dividends: changing firm characteristics or lower propensity to pay?. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(01)00038-1
+
+Fatemi, A., & Bildik, R. (2012). Yes, dividends are disappearing: Worldwide evidence. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2011.10.008
+
+Grullon, G., Paye, B., Underwood, S., & Weston, J. P. (2011). Has the Propensity to Pay Out Declined?. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109010000633
+
+Michaely, R., & Moin, A. (2022). Disappearing and reappearing dividends. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2021.06.029
+
+Skinner, D. J. (2008). The evolving relation between earnings, dividends, and stock repurchases. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.05.003

@@ -79,3 +79,35 @@ The agency cost is not universal; it is small or reversed under identifiable con
 - [[pinkowitz-2006-does-the-contribution-of-corporate-cash-holdings-and]]
 - [[dennis-2025-lazy-dividends]]
 - [[gow-2024-activist-directors-determinants-and-consequences]]
+
+## References
+
+Christie, W. G., & Nanda, V. (1994). Free Cash Flow, Shareholder Value, and the Undistributed Profits Tax of 1936 and 1937. *Journal of Finance*. https://doi.org/10.2307/2329269
+
+DeAngelo, H., & DeAngelo, L. (2000). Controlling stockholders and the disciplinary role of corporate payout policy: a study of the Times Mirror Company. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00039-8
+
+DeAngelo, H., Kahle, K., & Skinner, D. J. (2025). Agency cost of free cash flow, capital allocation, and payouts. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2025.104117
+
+Dennis, P. J., & Weston, J. P. (2025). Lazy dividends. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2025.102858
+
+Décamps, J. P., Mariotti, T., Rochet, J. C., & Villeneuve, S. (2011). Free Cash Flow, Issuance Costs, and Stock Prices. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2011.01680.x
+
+Fenn, G. W., & Liang, N. (2001). Corporate payout policy and managerial stock incentives. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(01)00039-3
+
+Gow, I. D., Shin, S. S., & Srinivasan, S. (2024). Activist directors: determinants and consequences. *Review of Accounting Studies*. https://doi.org/10.1007/s11142-023-09767-8
+
+Grullon, G., & Michaely, R. (2004). The information content of share repurchase programs. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2004.00645.x
+
+Gugler, K. (2003). Corporate governance, dividend payout policy, and the interrelation between dividends, R&D, and capital investment. *Journal of Banking & Finance*. https://doi.org/10.1016/S0378-4266(02)00258-3
+
+Harford, J., Mansi, S. A., & Maxwell, W. F. (2008). Corporate governance and firm cash holdings in the US. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.04.002
+
+Hu, A. D., & Kumar, P. (2004). Managerial entrenchment and payout policy. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109000003203
+
+Lie, E. (2000). Excess funds and agency problems: An empirical study of incremental cash disbursements. *Review of Financial Studies*. https://doi.org/10.1093/rfs/13.1.219
+
+Officer, M. S. (2011). Overinvestment, corporate governance, and dividend initiations. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2010.06.004
+
+Pinkowitz, L., Stulz, R., & Williamson, R. (2006). Does the contribution of corporate cash holdings and dividends to firm value depend on governance? A cross-country analysis. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2006.01003.x
+
+Wang, H. (2011). Managerial entrenchment, equity payout and capital structure. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2010.07.018

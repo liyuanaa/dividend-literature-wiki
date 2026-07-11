@@ -58,3 +58,27 @@ The unresolved core is the status of irrelevance-of-form against the relevance o
 - Measures: [[payout-ratio-and-propensity-to-pay]]
 - Synthesis: [[international-evidence-on-dividends]]
 - Major sources: [[deangelo-2006-the-irrelevance-of-the-mm-dividend-irrelevance-theorem]], [[handley-2008-dividend-policy-reconciling-dd-with-mm]], [[brav-2005-payout-policy-in-the-21st-century]], [[turner-2013-why-do-firms-pay-dividends-evidence-from-an]], [[fama-2001-disappearing-dividends-changing-firm-characteristics-or-lower-propensity]], [[grullon-2002-dividends-share-repurchases-and-the-substitution-hypothesis]], [[jacob-michaely-2017-taxation-and-dividend-policy-the-muting-effect-of-agency-iss]]
+
+## References
+
+Brav, A., Graham, J. R., Harvey, C. R., & Michaely, R. (2005). Payout policy in the 21st century. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2004.07.004
+
+DeAngelo, H., & DeAngelo, L. (2006). The irrelevance of the MM dividend irrelevance theorem. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2005.03.003
+
+Denis, D. J., & Osobov, I. (2008). Why do firms pay dividends? International evidence on the determinants of dividend policy. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.06.006
+
+Fama, E. F., & French, K. R. (2001). Disappearing dividends: changing firm characteristics or lower propensity to pay?. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(01)00038-1
+
+Grullon, G., & Michaely, R. (2002). Dividends, share repurchases, and the substitution hypothesis. *Journal of Finance*. https://doi.org/10.1111/1540-6261.00474
+
+Grullon, G., Paye, B., Underwood, S., & Weston, J. P. (2011). Has the Propensity to Pay Out Declined?. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109010000633
+
+Handley, J. C. (2008). Dividend policy: Reconciling DD with MM. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.02.002
+
+Jacob, M., & Michaely, R. (2017). Taxation and Dividend Policy: The Muting Effect of Agency Issues and Shareholder Conflicts. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhx041
+
+Michaely, R., & Moin, A. (2022). Disappearing and reappearing dividends. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2021.06.029
+
+Skinner, D. J. (2008). The evolving relation between earnings, dividends, and stock repurchases. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.05.003
+
+Turner, J. D., Ye, Q., & Zhan, W. W. (2013). Why Do Firms Pay Dividends?: Evidence from an Early and Unregulated Capital Market. *Review of Finance*. https://doi.org/10.1093/rof/rfs048

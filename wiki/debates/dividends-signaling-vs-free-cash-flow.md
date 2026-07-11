@@ -52,3 +52,35 @@ The field has largely abandoned the search for a single winner in favor of a sco
 - Methods: [[dividend-announcement-event-studies]]
 - Synthesis: [[mm-irrelevance-and-payout-puzzles]], [[regulation-governance-and-payout-overview]]
 - Major sources: [[denis-1994-the-information-content-of-dividend-changes-cash-flow]], [[officer-2011-overinvestment-corporate-governance-and-dividend-initiations]], [[yoon-1995-signaling-investment-opportunities-and-dividend-announcements]], [[hail-2014-dividend-payouts-and-information-shocks]], [[nohel-1998-share-repurchases-and-firm-performance-new-evidence-on]]
+
+## References
+
+Aggarwal, R., Cao, J., & Chen, F. (2012). Information Environment, Dividend Changes, and Signaling: Evidence from ADR Firms. *Contemporary Accounting Research*. https://doi.org/10.1111/j.1911-3846.2011.01101.x
+
+Benartzi, S., Michaely, R., & Thaler, R. (1997). Do changes in dividends signal the future or the past?. *Journal of Finance*. https://doi.org/10.2307/2329514
+
+Bernheim, B. D., & Wantz, A. (1995). A Tax-Based Test of the Dividend Signaling Hypothesis. *American Economic Review*.
+
+Brav, A., Graham, J. R., Harvey, C. R., & Michaely, R. (2005). Payout policy in the 21st century. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2004.07.004
+
+Denis, D. J., Denis, D. K., & Sarin, A. (1994). The Information-Content of Dividend Changes - Cash Flow Signaling, Overinvestment, and Dividend Clienteles. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.2307/2331110
+
+Dhillon, U. S., & Johnson, H. (1994). The Effect of Dividend Changes on Stock and Bond Prices. *Journal of Finance*.
+
+Grullon, G., & Michaely, R. (2004). The information content of share repurchase programs. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2004.00645.x
+
+Hail, L., Tahoun, A., & Wang, C. (2014). Dividend Payouts and Information Shocks. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12040
+
+Howe, K. M., He, J., & Kao, G. W. (1992). One-Time Cash Flow Announcements and Free Cash-Flow Theory - Share Repurchases and Special Dividends. *Journal of Finance*. https://doi.org/10.2307/2329004
+
+Lie, E. (2005). Operating performance following dividend decreases and omissions. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2004.04.004
+
+Michaely, R., Thaler, R. H., & Womack, K. L. (1995). Price Reactions to Dividend Initiations and Omissions - Overreaction or Drift. *Journal of Finance*. https://doi.org/10.2307/2329420
+
+Michaely, R., Rossi, S., & Weber, M. (2021). Signaling safety. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2020.08.013
+
+Nohel, T., & Tarhan, V. (1998). Share repurchases and firm performance: new evidence on the agency costs of free cash flow. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(98)00022-1
+
+Officer, M. S. (2011). Overinvestment, corporate governance, and dividend initiations. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2010.06.004
+
+Yoon, P. S., & Starks, L. T. (1995). Signaling, investment opportunities, and dividend announcements. *Review of Financial Studies*. https://doi.org/10.1093/rfs/8.4.995

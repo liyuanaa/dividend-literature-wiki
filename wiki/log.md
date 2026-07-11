@@ -27,3 +27,5 @@ Append-only log of all wiki operations.
 ## [2026-07-08] lint | Full lint pass — 0 real issues (template-placeholder links excluded)
 
 ## [2026-07-11] ingest | 35 full-text PDFs ingested — 11 abstract entries supplemented with full text, 23 new source pages created, synthesis/concept layer enriched; lint clean (1 structural orphan: log.md)
+
+## [2026-07-11] update | Added APA reference lists to 30 wiki pages (concepts, mechanisms, debates, methods, measures, synthesis); title-case normalization applied to legacy all-caps entries

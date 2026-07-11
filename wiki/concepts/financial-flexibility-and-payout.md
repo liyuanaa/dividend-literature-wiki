@@ -83,3 +83,33 @@ Several tensions remain unresolved. The most pointed is whether flexibility shel
 - [[michaely-roberts-2012-corporate-dividend-policies-lessons-from-private-firms]]
 - [[jordan-2018-organizational-form-and-corporate-payout-policy]]
 - [[amberger-2023-volatility-of-tax-payments-and-dividend-payouts]]
+
+## References
+
+Amberger, H. J. (2023). Volatility of Tax Payments and Dividend Payouts. *Contemporary Accounting Research*. https://doi.org/10.1111/1911-3846.12831
+
+Bonaimé, A. A., Hankins, K. W., & Harford, J. (2014). Financial Flexibility, Risk Management, and Payout Choice. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hht045
+
+Bonaimé, A. A., Hankins, K. W., & Jordan, B. D. (2016). The cost of financial flexibility: Evidence from share repurchases. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2016.02.002
+
+Chay, J. B., & Suh, J. (2009). Payout policy and cash-flow uncertainty. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2008.12.001
+
+DeAngelo, H., & DeAngelo, L. (2006). The irrelevance of the MM dividend irrelevance theorem. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2005.03.003
+
+Easterwood, J. C., Paye, B. S., & Xie, Y. T. (2021). Firm uncertainty and corporate policies: The role of stock return skewness. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2021.102032
+
+Hoberg, G., Phillips, G., & Prabhala, N. (2014). Product Market Threats, Payouts, and Financial Flexibility. *Journal of Finance*. https://doi.org/10.1111/jofi.12050
+
+Jagannathan, M., Stephens, C. P., & Weisbach, M. S. (2000). Financial flexibility and the choice between dividends and stock repurchases. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00061-1
+
+Jordan, B. D., Liu, M. H., & Wu, Q. (2018). Organizational Form and Corporate Payout Policy. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109017001211
+
+Kumar, A., & Vergara-Alert, C. (2020). The Effect of Financial Flexibility on Payout Policy. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S002210901800114X
+
+Lee, C. F., Gupta, M. C., Chen, H. Y., & Lee, A. C. (2011). Optimal payout ratio under uncertainty and the flexibility hypothesis: Theory and empirical evidence. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2011.02.004
+
+Luo, P. F., & Tian, Y. (2022). Investment, payout, and cash management under risk and ambiguity. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2022.106551
+
+Michaely, R., & Roberts, M. R. (2012). Corporate Dividend Policies: Lessons from Private Firms. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhr108
+
+Rapp, M. S., Schmid, T., & Urban, D. (2014). The value of financial flexibility and corporate financial policy. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.08.004

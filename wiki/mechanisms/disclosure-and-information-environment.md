@@ -79,3 +79,29 @@ The channel weakens or reverses under identifiable conditions. When the investor
 - [[skinner-2011-what-do-dividends-tell-us-about-earnings-quality]]
 - [[aggarwal-2012-information-environment-dividend-changes-and-signaling-evidence-from]]
 - [[amihud-2006-the-declining-information-content-of-dividend-announcements-and]]
+
+## References
+
+Aggarwal, R., Cao, J., & Chen, F. (2012). Information Environment, Dividend Changes, and Signaling: Evidence from ADR Firms. *Contemporary Accounting Research*. https://doi.org/10.1111/j.1911-3846.2011.01101.x
+
+Amihud, Y., & Li, K. F. (2006). The declining information content of dividend announcements and the effects of institutional holdings. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109000002568
+
+Brockman, P., & Unlu, E. (2011). Earned/contributed capital, dividend policy, and disclosure quality: An international study. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2010.11.014
+
+Ham, C. G., Kaplan, Z. R., & Leary, M. T. (2020). Do dividends convey information about future earnings?. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2019.10.006
+
+Ham, C. G., Kaplan, Z. R., & Utke, S. (2023). Attention to dividends, inattention to earnings?. *Review of Accounting Studies*. https://doi.org/10.1007/s11142-021-09642-4
+
+He, W., Ng, L. L., Zaiats, N., & Zhang, B. H. (2017). Dividend policy and earnings management across countries. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2016.11.014
+
+Jiang, F. X., Ma, Y. B., & Shi, B. B. (2017). Stock liquidity and dividend payouts. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2016.12.005
+
+Koo, D. S., Ramalingegowda, S., & Yu, Y. (2017). The effect of financial reporting quality on corporate dividend policy. *Review of Accounting Studies*. https://doi.org/10.1007/s11142-017-9393-3
+
+Landsman, W. R., Li, C. K., & Zhao, J. D. (2023). CDS Trading Initiation, Information Asymmetry, and Dividend Payout. *Management Science*. https://doi.org/10.1287/mnsc.2022.4337
+
+Lawson, B. P., & Wang, D. C. (2016). The Earnings Quality Information Content of Dividend Policies and Audit Pricing. *Contemporary Accounting Research*. https://doi.org/10.1111/1911-3846.12179
+
+Louis, H., & Urcan, O. (2015). Agency Conflicts, Dividend Payout, and the Direct Benefits of Conservative Financial Reporting to Equity-Holders. *Contemporary Accounting Research*. https://doi.org/10.1111/1911-3846.12085
+
+Skinner, D. J., & Soltes, E. (2011). What do dividends tell us about earnings quality?. *Review of Accounting Studies*. https://doi.org/10.1007/s11142-009-9113-8

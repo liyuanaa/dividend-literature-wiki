@@ -52,3 +52,47 @@ The newest wave asks how risk originating outside the firm — in policy, politi
 - Measures: [[payout-ratio-and-propensity-to-pay]], [[lintner-model-and-smoothing-measures]]
 - Synthesis: [[mm-irrelevance-and-payout-puzzles]], [[political-and-policy-uncertainty-and-payout]], [[international-evidence-on-dividends]]
 - Major sources: [[deangelo-2006-the-irrelevance-of-the-mm-dividend-irrelevance-theorem]], [[brav-2005-payout-policy-in-the-21st-century]], [[fama-2001-disappearing-dividends-changing-firm-characteristics-or-lower-propensity]], [[grullon-2002-dividends-share-repurchases-and-the-substitution-hypothesis]], [[huang-2015-political-risk-and-dividend-policy-evidence-from-international]], [[chang-2024-climate-risk-and-payout-flexibility-around-the-world]]
+
+## References
+
+Attig, N., El Ghoul, S., Guedhami, O., & Zheng, X. L. (2021). Dividends and economic policy uncertainty: International evidence. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2020.101785
+
+Balachandran, B., & Nguyen, J. H. (2018). Does carbon risk matter in firm dividend policy? Evidence from a quasi-natural experiment in an imputation environment. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2018.09.015
+
+Banyi, M. L., & Kahle, K. M. (2014). Declining propensity to pay? A re-examination of the lifecycle theory. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.06.001
+
+Brav, A., Graham, J. R., Harvey, C. R., & Michaely, R. (2005). Payout policy in the 21st century. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2004.07.004
+
+Cejnek, G., Randl, O., & Zechner, J. (2021). The COVID-19 Pandemic and Corporate Dividend Policy. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109021000533
+
+Chang, Y. Y., He, W., & Mi, L. (2024). Climate risk and payout flexibility around the world. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2024.107233
+
+DeAngelo, H., & DeAngelo, L. (2006). The irrelevance of the MM dividend irrelevance theorem. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2005.03.003
+
+DeAngelo, H., DeAngelo, L., & Stulz, R. M. (2006). Dividend policy and the earned/contributed capital mix: a test of the life-cycle theory. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2005.07.005
+
+Denis, D. J., & Osobov, I. (2008). Why do firms pay dividends? International evidence on the determinants of dividend policy. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.06.006
+
+Fama, E. F., & French, K. R. (2001). Disappearing dividends: changing firm characteristics or lower propensity to pay?. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(01)00038-1
+
+Fatemi, A., & Bildik, R. (2012). Yes, dividends are disappearing: Worldwide evidence. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2011.10.008
+
+Floyd, E., Li, N., & Skinner, D. J. (2015). Payout policy through the financial crisis: The growth of repurchases and the resilience of dividends. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2015.08.002
+
+Grullon, G., & Michaely, R. (2002). Dividends, share repurchases, and the substitution hypothesis. *Journal of Finance*. https://doi.org/10.1111/1540-6261.00474
+
+Grullon, G., Paye, B., Underwood, S., & Weston, J. P. (2011). Has the Propensity to Pay Out Declined?. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109010000633
+
+Handley, J. C. (2008). Dividend policy: Reconciling DD with MM. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.02.002
+
+Huang, T., Wu, F., Yu, J., & Zhang, B. H. (2015). Political risk and dividend policy: Evidence from international political crises. *Journal of International Business Studies*. https://doi.org/10.1057/jibs.2015.2
+
+Jagannathan, M., Stephens, C. P., & Weisbach, M. S. (2000). Financial flexibility and the choice between dividends and stock repurchases. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00061-1
+
+Michaely, R., & Moin, A. (2022). Disappearing and reappearing dividends. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2021.06.029
+
+Renneboog, L., & Trojanowski, G. (2011). Patterns in payout policy and payout channel choice. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2010.10.028
+
+Skinner, D. J. (2008). The evolving relation between earnings, dividends, and stock repurchases. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.05.003
+
+Turner, J. D., Ye, Q., & Zhan, W. W. (2013). Why Do Firms Pay Dividends?: Evidence from an Early and Unregulated Capital Market. *Review of Finance*. https://doi.org/10.1093/rof/rfs048

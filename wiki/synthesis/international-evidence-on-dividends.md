@@ -97,3 +97,37 @@ The central unresolved problem is the endogeneity of institutions: legal origin,
 - [[he-zhang-2022-languages-and-dividends]]
 - [[qin-2022-social-trust-and-dividend-payouts-evidence-from-china]]
 - [[he-li-2018-the-effects-of-a-comply-or-explain-dividend-regulation-in-china]]
+
+## References
+
+Alzahrani, M., & Lasfer, M. (2012). Investor protection, taxation, and dividends. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2012.06.003
+
+Breuer, W., Rieger, M. O., & Soypak, K. C. (2014). The behavioral foundations of corporate dividend policy a cross-country analysis. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2014.02.001
+
+Brockman, P., & Unlu, E. (2011). Earned/contributed capital, dividend policy, and disclosure quality: An international study. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2010.11.014
+
+Chen, X., Hsieh, C. C., Tsang, A., & Xiang, Y. (2022). Cross-border enforcement of securities laws and dividend payouts. *The British Accounting Review*. https://doi.org/10.1016/j.bar.2022.101117
+
+Denis, D. J., & Osobov, I. (2008). Why do firms pay dividends? International evidence on the determinants of dividend policy. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.06.006
+
+Ellahie, A., & Kaplan, Z. (2021). Show Me the Money! Dividend Policy in Countries with Weak Institutions. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12363
+
+Fatemi, A., & Bildik, R. (2012). Yes, dividends are disappearing: Worldwide evidence. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2011.10.008
+
+Ferris, S. P., Jayaraman, N., & Sabherwal, S. (2009). Catering effects in corporate dividend policy: The international evidence. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2009.04.005
+
+He, W., Ng, L. L., Zaiats, N., & Zhang, B. H. (2017). Dividend policy and earnings management across countries. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2016.11.014
+
+He, W., & Li, C. K. (2018). The effects of a comply-or-explain dividend regulation in China. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2018.07.002
+
+He, W., & Zhang, F. (2022). Languages and dividends. *The British Accounting Review*. https://doi.org/10.1016/j.bar.2022.101132
+
+Javakhadze, D., Ferris, S. P., & Sen, N. (2014). An international analysis of dividend smoothing. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.09.007
+
+La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. W. (2000). Agency problems and dividend policies around the world. *Journal of Finance*. https://doi.org/10.1111/0022-1082.00199
+
+Moortgat, L., Annaert, J., & Deloof, M. (2017). Investor protection, taxation and dividend policy: Long-run evidence, 1838-2012. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2017.08.013
+
+Pinkowitz, L., Stulz, R., & Williamson, R. (2006). Does the contribution of corporate cash holdings and dividends to firm value depend on governance? A cross-country analysis. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2006.01003.x
+
+Qin, W., Liang, Q., Jiao, Y., Lu, M., & Shan, Y. (2022). Social Trust and Dividend Payouts: Evidence from China. *Pacific-Basin Finance Journal*. https://doi.org/10.1016/j.pacfin.2022.101726

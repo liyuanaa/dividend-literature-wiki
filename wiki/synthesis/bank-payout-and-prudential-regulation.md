@@ -73,3 +73,25 @@ The unresolved core is how to reconcile the signaling and risk-shifting readings
 - [[srivastav-2014-ceo-inside-debt-holdings-and-risk-shifting-evidence]]
 - [[marsh-2023-supervisory-stringency-payout-restrictions-and-bank-equity-prices]]
 - [[acharya-2017-bank-capital-and-dividend-externalities]]
+
+## References
+
+Abreu, J. F., & Gulamhussen, M. A. (2013). Dividend payouts: Evidence from US bank holding companies in the context of the financial crisis. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2013.04.001
+
+Acharya, V. V., Le, H. T., & Shin, H. S. (2017). Bank Capital and Dividend Externalities. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhw096
+
+Cohen, B. H., & Scatigna, M. (2016). Banks and capital requirements: Channels of adjustment. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2015.09.022
+
+Forti, C., & Schiozer, R. F. (2015). Bank dividends and signaling to information-sensitive depositors. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2015.02.011
+
+Kanas, A. (2013). Bank dividends, risk, and regulatory regimes. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2012.05.018
+
+Marsh, W. B. (2023). Supervisory stringency, payout restrictions, and bank equity prices. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2023.106936
+
+Pugachev, L. (2022). The risk-shifting value of payout: Evidence from bank enforcement actions. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2019.07.015
+
+Sanders, E., Simoens, M., & Vander Vennet (2024). Curse and blessing: The effect of the dividend ban on euro area bank valuations and syndicated lending. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2024.107190
+
+Srivastav, A., Armitage, S., & Hagendorff, J. (2014). CEO inside debt holdings and risk-shifting: Evidence from bank payout policies. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2014.06.016
+
+Tripathy, N., Wu, D., & Zheng, Y. (2021). Dividends and financial health: Evidence from US bank holding companies. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2020.101808

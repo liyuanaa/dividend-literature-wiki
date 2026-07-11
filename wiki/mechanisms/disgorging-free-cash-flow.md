@@ -72,3 +72,31 @@ Disgorgement can fail to occur, be too small to matter, or be undone. Recurring 
 - [[grullon-2004-the-information-content-of-share-repurchase-programs]]
 - [[grullon-2002-dividends-share-repurchases-and-the-substitution-hypothesis]]
 - [[deangelo-2000-controlling-stockholders-and-the-disciplinary-role-of-corporate]]
+
+## References
+
+Christie, W. G., & Nanda, V. (1994). Free Cash Flow, Shareholder Value, and the Undistributed Profits Tax of 1936 and 1937. *Journal of Finance*. https://doi.org/10.2307/2329269
+
+DeAngelo, H., & DeAngelo, L. (2000). Controlling stockholders and the disciplinary role of corporate payout policy: a study of the Times Mirror Company. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00039-8
+
+DeAngelo, H., Kahle, K., & Skinner, D. J. (2025). Agency cost of free cash flow, capital allocation, and payouts. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2025.104117
+
+Décamps, J. P., Mariotti, T., Rochet, J. C., & Villeneuve, S. (2011). Free Cash Flow, Issuance Costs, and Stock Prices. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2011.01680.x
+
+Fenn, G. W., & Liang, N. (2001). Corporate payout policy and managerial stock incentives. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(01)00039-3
+
+Grullon, G., & Michaely, R. (2002). Dividends, share repurchases, and the substitution hypothesis. *Journal of Finance*. https://doi.org/10.1111/1540-6261.00474
+
+Grullon, G., & Michaely, R. (2004). The information content of share repurchase programs. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2004.00645.x
+
+Gugler, K. (2003). Corporate governance, dividend payout policy, and the interrelation between dividends, R&D, and capital investment. *Journal of Banking & Finance*. https://doi.org/10.1016/S0378-4266(02)00258-3
+
+Harford, J., Mansi, S. A., & Maxwell, W. F. (2008). Corporate governance and firm cash holdings in the US. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.04.002
+
+Jagannathan, M., Stephens, C. P., & Weisbach, M. S. (2000). Financial flexibility and the choice between dividends and stock repurchases. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00061-1
+
+Lie, E. (2000). Excess funds and agency problems: An empirical study of incremental cash disbursements. *Review of Financial Studies*. https://doi.org/10.1093/rfs/13.1.219
+
+Officer, M. S. (2011). Overinvestment, corporate governance, and dividend initiations. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2010.06.004
+
+Oswald, D., & Young, S. (2008). Share reacquisitions, surplus cash, and agency problems. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2007.05.010

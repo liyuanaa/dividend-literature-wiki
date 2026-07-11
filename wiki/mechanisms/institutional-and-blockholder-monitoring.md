@@ -51,3 +51,27 @@ The causal and selection camps are less contradictory once identification design
 - Debates: [[dividends-signaling-vs-free-cash-flow]], [[substitute-vs-outcome-model]], [[dividend-repurchase-substitution]]
 - Synthesis: [[regulation-governance-and-payout-overview]], [[international-evidence-on-dividends]]
 - Major sources: [[crane-2016-the-effect-of-institutional-ownership-on-payout-policy]], [[firth-2016-institutional-stock-ownership-and-firms-cash-dividend-policies]], [[grinstein-2005-institutional-holdings-and-payout-policy]], [[harford-2018-do-long-term-investors-improve-corporate-decision-making]], [[kempf-2017-distracted-shareholders-and-corporate-actions]]
+
+## References
+
+Amihud, Y., & Li, K. F. (2006). The declining information content of dividend announcements and the effects of institutional holdings. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109000002568
+
+Crane, A. D., Michenaud, S., & Weston, J. P. (2016). The Effect of Institutional Ownership on Payout Policy: Evidence from Index Thresholds. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhw012
+
+DeAngelo, H., & DeAngelo, L. (2000). Controlling stockholders and the disciplinary role of corporate payout policy: a study of the Times Mirror Company. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00039-8
+
+Firth, M., Gao, J., Shen, J. H., & Zhang, Y. Y. (2016). Institutional stock ownership and firms' cash dividend policies: Evidence from China. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2016.01.009
+
+Grinstein, Y., & Michaely, R. (2005). Institutional holdings and payout policy. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2005.00765.x
+
+Harford, J., Kecskés, A., & Mansi, S. (2018). Do long-term investors improve corporate decision making?. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2017.09.022
+
+Kempf, E., Manconi, A., & Spalt, O. (2017). Distracted Shareholders and Corporate Actions. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhw082
+
+Liao, S. (2015). Outside Blockholders' Monitoring of Management and Debt Financing. *Contemporary Accounting Research*. https://doi.org/10.1111/1911-3846.12138
+
+Low, S. W., Glorfeld, L., Hearth, D., & Rimbey, J. N. (2001). The link between bank monitoring and corporate dividend policy: The case of dividend omissions. *Journal of Banking & Finance*. https://doi.org/10.1016/S0378-4266(00)00170-9
+
+Short, H., Zhang, H., & Keasey, K. (2002). The link between dividend policy and institutional ownership. *Journal of Corporate Finance*. https://doi.org/10.1016/S0929-1199(01)00030-X
+
+Zerni, M., Kallunki, J. P., & Nilsson, H. (2010). The Entrenchment Problem, Corporate Governance Mechanisms, and Firm Value. *Contemporary Accounting Research*. https://doi.org/10.1111/j.1911-3846.2010.01043.x

@@ -53,3 +53,35 @@ Several recurring hazards degrade naive implementations. Confounding events — 
 - Measures: [[payout-ratio-and-propensity-to-pay]]
 - Synthesis: [[mm-irrelevance-and-payout-puzzles]]
 - Major sources: [[denis-1994-the-information-content-of-dividend-changes-cash-flow]], [[michaely-1995-price-reactions-to-dividend-initiations-and-omissions-overreaction]], [[yoon-1995-signaling-investment-opportunities-and-dividend-announcements]], [[amihud-2006-the-declining-information-content-of-dividend-announcements-and]], [[michaely-2016-are-friday-announcements-special-overcoming-selection-bias]]
+
+## References
+
+Aggarwal, R., Cao, J., & Chen, F. (2012). Information Environment, Dividend Changes, and Signaling: Evidence from ADR Firms. *Contemporary Accounting Research*. https://doi.org/10.1111/j.1911-3846.2011.01101.x
+
+Al-Yahyaee, K. H., Pham, T. M., & Walter, T. S. (2011). The information content of cash dividend announcements in a unique environment. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2010.03.004
+
+Amihud, Y., & Li, K. F. (2006). The declining information content of dividend announcements and the effects of institutional holdings. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109000002568
+
+Benartzi, S., Michaely, R., & Thaler, R. (1997). Do changes in dividends signal the future or the past?. *Journal of Finance*. https://doi.org/10.2307/2329514
+
+Bernheim, B. D., & Wantz, A. (1995). A Tax-Based Test of the Dividend Signaling Hypothesis. *American Economic Review*.
+
+Denis, D. J., Denis, D. K., & Sarin, A. (1994). The Information-Content of Dividend Changes - Cash Flow Signaling, Overinvestment, and Dividend Clienteles. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.2307/2331110
+
+Dhillon, U. S., & Johnson, H. (1994). The Effect of Dividend Changes on Stock and Bond Prices. *Journal of Finance*.
+
+Howe, K. M., He, J., & Kao, G. W. (1992). One-Time Cash Flow Announcements and Free Cash-Flow Theory - Share Repurchases and Special Dividends. *Journal of Finance*. https://doi.org/10.2307/2329004
+
+Lie, E. (2005). Operating performance following dividend decreases and omissions. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2004.04.004
+
+Michaely, R., Thaler, R. H., & Womack, K. L. (1995). Price Reactions to Dividend Initiations and Omissions - Overreaction or Drift. *Journal of Finance*. https://doi.org/10.2307/2329420
+
+Michaely, R., Rubin, A., & Vedrashko, A. (2016). Are Friday announcements special? Overcoming selection bias. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2016.05.006
+
+Michaely, R., Rossi, S., & Weber, M. (2021). Signaling safety. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2020.08.013
+
+Nohel, T., & Tarhan, V. (1998). Share repurchases and firm performance: new evidence on the agency costs of free cash flow. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(98)00022-1
+
+Officer, M. S. (2011). Overinvestment, corporate governance, and dividend initiations. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2010.06.004
+
+Yoon, P. S., & Starks, L. T. (1995). Signaling, investment opportunities, and dividend announcements. *Review of Financial Studies*. https://doi.org/10.1093/rfs/8.4.995

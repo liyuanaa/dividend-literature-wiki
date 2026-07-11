@@ -56,3 +56,27 @@ The field has converged on "imperfect substitutes" as the modal position: the tw
 - Measures: [[payout-ratio-and-propensity-to-pay]]
 - Synthesis: [[mm-irrelevance-and-payout-puzzles]], [[international-evidence-on-dividends]]
 - Major sources: [[grullon-2002-dividends-share-repurchases-and-the-substitution-hypothesis]], [[skinner-2008-the-evolving-relation-between-earnings-dividends-and-stock]], [[jagannathan-2000-financial-flexibility-and-the-choice-between-dividends-and]], [[michaely-2022-disappearing-and-reappearing-dividends]], [[brav-2005-payout-policy-in-the-21st-century]], [[zhou-2013-import-competition-and-disappearing-dividends]]
+
+## References
+
+Brav, A., Graham, J. R., Harvey, C. R., & Michaely, R. (2005). Payout policy in the 21st century. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2004.07.004
+
+Fama, E. F., & French, K. R. (2001). Disappearing dividends: changing firm characteristics or lower propensity to pay?. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(01)00038-1
+
+Floyd, E., Li, N., & Skinner, D. J. (2015). Payout policy through the financial crisis: The growth of repurchases and the resilience of dividends. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2015.08.002
+
+Grullon, G., & Michaely, R. (2002). Dividends, share repurchases, and the substitution hypothesis. *Journal of Finance*. https://doi.org/10.1111/1540-6261.00474
+
+Guay, W., & Harford, J. (2000). The cash-flow permanence and information content of dividend increases versus repurchases. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00062-3
+
+Jagannathan, M., Stephens, C. P., & Weisbach, M. S. (2000). Financial flexibility and the choice between dividends and stock repurchases. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00061-1
+
+Jiang, Z., Kim, K. A., Lie, E., & Yang, S. (2013). Share repurchases, catering, and dividend substitution. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2013.01.004
+
+Lee, B. S., & Rui, O. M. (2007). Time-series behavior of share repurchases and dividends. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109000002210
+
+Michaely, R., & Moin, A. (2022). Disappearing and reappearing dividends. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2021.06.029
+
+Skinner, D. J. (2008). The evolving relation between earnings, dividends, and stock repurchases. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.05.003
+
+Zhou, J., Booth, L., & Chang, B. (2013). Import competition and disappearing dividends. *Journal of International Business Studies*. https://doi.org/10.1057/jibs.2012.36

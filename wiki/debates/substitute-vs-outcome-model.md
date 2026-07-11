@@ -56,3 +56,25 @@ The modal empirical verdict favours the outcome model — the founding cross-sec
 - Methods: [[natural-experiments-and-did-regulatory-shocks]], [[cross-country-institutional-design]]
 - Synthesis: [[regulation-governance-and-payout-overview]], [[international-evidence-on-dividends]]
 - Sources: [[laporta-2000-agency-problems-and-dividend-policies-around-the-world]], [[lariviere-2018-shareholder-protection-and-agency-costs-an-experimental-analysis]], [[bae-2021-board-reforms-and-dividend-policy-international-evidence]], [[brockman-2014-the-impact-of-insider-trading-laws-on-dividend]], [[glendening-2016-the-market-for-corporate-control-and-dividend-policies]], [[chae-2009-how-corporate-governance-affects-payout-policy-under-agency]]
+
+## References
+
+Atanassov, J., & Mandell, A. J. (2018). Corporate governance and dividend policy: Evidence of tunneling from master limited partnerships. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2018.10.004
+
+Bae, K. H., El Ghoul, S., Guedhami, O., & Zheng, X. L. (2021). Board Reforms and Dividend Policy: International Evidence. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109020000319
+
+Brockman, P., Tresl, J., & Unlu, E. (2014). The impact of insider trading laws on dividend payout policy. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.09.002
+
+Chae, J., Kim, S., & Lee, E. J. (2009). How corporate governance affects payout policy under agency problems and external financing constraints. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2009.05.003
+
+Glendening, M., Khurana, L. K., & Wang, W. (2016). The market for corporate control and dividend policies: Cross-country evidence from M&A laws. *Journal of International Business Studies*. https://doi.org/10.1057/s41267-016-0028-x
+
+Hail, L., Tahoun, A., & Wang, C. (2014). Dividend Payouts and Information Shocks. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12040
+
+La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. W. (2000). Agency problems and dividend policies around the world. *Journal of Finance*. https://doi.org/10.1111/0022-1082.00199
+
+La Porta, R., Lopez-De-Silanes, F., Shleifer, A., & Vishny, R. (2000). Investor protection and corporate governance. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00065-9
+
+LaRiviere, J., McMahon, M., & Neilson, W. (2018). Shareholder Protection and Agency Costs: An Experimental Analysis. *Management Science*. https://doi.org/10.1287/mnsc.2017.2770
+
+Lin, J., Li, F., Zheng, S. X., & Zhou, M. S. (2023). Minority shareholder voting and dividend policy. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2022.106748

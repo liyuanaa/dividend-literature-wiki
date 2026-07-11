@@ -77,3 +77,51 @@ At the edges, the channel is muted, delayed, or expressed through ownership rath
 - [[desai-2011-institutional-tax-clienteles-and-payout-policy]]
 - [[pattenden-2008-taxes-and-dividend-policy-under-alternative-tax-regimes]]
 - [[berzins-2019-dividends-and-taxes-the-moderating-role-of-agency]]
+
+## References
+
+Aboody, D., & Kasznik, R. (2008). Executive stock-based compensation and firms' cash payout: the role of shareholders' tax-related payout preferences. *Review of Accounting Studies*. https://doi.org/10.1007/s11142-008-9068-1
+
+Alzahrani, M., & Lasfer, M. (2012). Investor protection, taxation, and dividends. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2012.06.003
+
+Balachandran, B., Khan, A., Mather, P., & Theobald, M. (2019). Insider ownership and dividend policy in an imputation tax environment. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2017.01.014
+
+Becker, B., Ivkovic, Z., & Weisbenner, S. (2011). Local Dividend Clienteles. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2010.01645.x
+
+Berzins, J., Bohren, O., & Stacescu, B. (2019). Dividends and taxes: The moderating role of agency conflicts. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2019.07.003
+
+Brown, J. R., Liang, N., & Weisbenner, S. (2007). Executive financial incentives and payout policy: Firm responses to the 2003 dividend tax cut. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2007.01261.x
+
+Chetty, R., & Saez, E. (2005). Dividend taxes and corporate behavior: Evidence from the 2003 dividend tax cut. *Quarterly Journal of Economics*. https://doi.org/10.1162/003355305774268174
+
+Colombo, J. A., & Caldeira, J. F. (2018). The role of taxes and the interdependence among corporate financial policies: Evidence from a natural experiment. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2017.09.007
+
+Desai, M. A., & Jin, L. (2011). Institutional tax clienteles and payout policy. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2010.10.013
+
+Guan, J. X. J., Li, O. Z., & Ma, J. M. (2018). Managerial Ability and the Shareholder Tax Sensitivity of Dividends. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109017001004
+
+Hanlon, M., & Hoopes, J. L. (2014). What do firms do when dividend tax rates change? An examination of alternative payout responses. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2014.06.004
+
+Henry, D. (2011). Ownership structure and tax-friendly dividends. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2011.03.003
+
+Hillmann, L. (2023). Dividend taxation and the ownership structure of private firms. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2023.102380
+
+Hsieh, J., & Wang, Q. H. (2008). Insiders' tax preferences and firms' choices between dividends and share repurchases. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109000002805
+
+Isakov, D., Pérignon, C., & Weisskopf, J. P. (2021). What If Dividends Were Tax-Exempt? Evidence from a Natural Experiment. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhab010
+
+Jacob, M., & Jacob, M. (2013). Taxation, Dividends, and Share Repurchases: Taking Evidence Global. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109013000367
+
+Jacob, M., & Michaely, R. (2017). Taxation and Dividend Policy: The Muting Effect of Agency Issues and Shareholder Conflicts. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhx041
+
+Korkeamaki, T., Liljeblom, E., & Pasternack, D. (2010). Tax reform and payout policy: Do shareholder clienteles or payout policy adjust?. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2009.12.003
+
+Li, O. Z., Liu, H., Ni, C. K., & Ye, K. T. (2017). Individual Investors' Dividend Taxes and Corporate Payout Policies. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109017000199
+
+Lie, E., & Lie, H. J. (1999). The role of personal taxes in corporate decisions: An empirical analysis of share repurchases and dividends. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.2307/2676233
+
+Moortgat, L., Annaert, J., & Deloof, M. (2017). Investor protection, taxation and dividend policy: Long-run evidence, 1838-2012. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2017.08.013
+
+Moser, W. J. (2007). The effect of shareholder taxes on corporate payout choice. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109000003471
+
+Pattenden, K., & Twite, G. (2008). Taxes and dividend policy under alternative tax regimes. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2007.09.002

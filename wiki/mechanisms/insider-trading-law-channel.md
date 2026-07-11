@@ -53,3 +53,27 @@ The channel is not universal, and its most important boundary case is the point 
 **Synthesis:** [[regulation-governance-and-payout-overview]] · [[international-evidence-on-dividends]]
 
 **Sources:** [[brockman-2014-the-impact-of-insider-trading-laws-on-dividend]] · [[hail-2014-dividend-payouts-and-information-shocks]] · [[laporta-2000-investor-protection-and-corporate-governance]] · [[price-2011-the-impact-of-governance-reform-on-performance-and]] · [[alzahrani-2012-investor-protection-taxation-and-dividends]]
+
+## References
+
+Alzahrani, M., & Lasfer, M. (2012). Investor protection, taxation, and dividends. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2012.06.003
+
+Atanassov, J., & Mandell, A. J. (2018). Corporate governance and dividend policy: Evidence of tunneling from master limited partnerships. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2018.10.004
+
+Brockman, P., Tresl, J., & Unlu, E. (2014). The impact of insider trading laws on dividend payout policy. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.09.002
+
+Ellahie, A., & Kaplan, Z. (2021). Show Me the Money! Dividend Policy in Countries with Weak Institutions. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12363
+
+Hail, L., Tahoun, A., & Wang, C. (2014). Dividend Payouts and Information Shocks. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12040
+
+Huang, J. J., Shen, Y. F., & Sun, Q. (2011). Nonnegotiable shares, controlling shareholders, and dividend payments in China. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2010.09.007
+
+La Porta, R., Lopez-De-Silanes, F., Shleifer, A., & Vishny, R. (2000). Investor protection and corporate governance. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00065-9
+
+La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. W. (2000). Agency problems and dividend policies around the world. *Journal of Finance*. https://doi.org/10.1111/0022-1082.00199
+
+Nenova, T. (2003). The value of corporate voting rights and control: A cross-country analysis. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(03)00069-2
+
+Pinkowitz, L., Stulz, R., & Williamson, R. (2006). Does the contribution of corporate cash holdings and dividends to firm value depend on governance? A cross-country analysis. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2006.01003.x
+
+Price, R., Román, F. J., & Rountree, B. (2011). The impact of governance reform on performance and transparency. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2010.08.005

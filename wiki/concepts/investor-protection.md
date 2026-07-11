@@ -56,3 +56,43 @@ Several tensions remain unresolved. The first is the persistent gap between law-
 - Methods: [[cross-country-institutional-design]], [[natural-experiments-and-did-regulatory-shocks]]
 - Synthesis: [[international-evidence-on-dividends]], [[regulation-governance-and-payout-overview]]
 - Sources: [[laporta-2000-investor-protection-and-corporate-governance]], [[laporta-2000-agency-problems-and-dividend-policies-around-the-world]], [[nenova-2003-the-value-of-corporate-voting-rights-and-control]], [[alzahrani-2012-investor-protection-taxation-and-dividends]], [[agrawal-2013-the-impact-of-investor-protection-law-on-corporate]], [[faccio-2001-dividends-and-expropriation]], [[francisco-2009-too-few-dividends-groups-tunneling-through-chair-and]], [[chen-2022-cross-border-enforcement-of-securities-laws-and-dividend-payouts]], [[he-li-2018-the-effects-of-a-comply-or-explain-dividend-regulation-in-china]], [[tao-2022-board-directors-foreign-experience-and-firm-dividend-payouts]], [[he-zhang-2022-languages-and-dividends]], [[qin-2022-social-trust-and-dividend-payouts-evidence-from-china]]
+
+## References
+
+Agrawal, A. K. (2013). The impact of investor protection law on corporate policy and performance: Evidence from the blue sky laws. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2012.08.019
+
+Alzahrani, M., & Lasfer, M. (2012). Investor protection, taxation, and dividends. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2012.06.003
+
+Atanassov, J., & Mandell, A. J. (2018). Corporate governance and dividend policy: Evidence of tunneling from master limited partnerships. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2018.10.004
+
+Bae, K. H., El Ghoul, S., Guedhami, O., & Zheng, X. L. (2021). Board Reforms and Dividend Policy: International Evidence. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109020000319
+
+Brockman, P., Tresl, J., & Unlu, E. (2014). The impact of insider trading laws on dividend payout policy. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.09.002
+
+Chen, X., Hsieh, C. C., Tsang, A., & Xiang, Y. (2022). Cross-border enforcement of securities laws and dividend payouts. *The British Accounting Review*. https://doi.org/10.1016/j.bar.2022.101117
+
+Faccio, M., Lang, L. H. P., & Young, L. (2001). Dividends and expropriation. *American Economic Review*. https://doi.org/10.1257/aer.91.1.54
+
+Francisco, U. I. (2009). Too few dividends? Groups' tunneling through chair and board compensation. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2008.11.002
+
+Gu, Z. H., Sun, W., & Zhou, F. S. (2024). Cultural Origin and Minority Shareholder Expropriation: Historical Evidence. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12517
+
+He, W., & Li, C. K. (2018). The effects of a comply-or-explain dividend regulation in China. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2018.07.002
+
+He, W., & Zhang, F. (2022). Languages and dividends. *The British Accounting Review*. https://doi.org/10.1016/j.bar.2022.101132
+
+La Porta, R., Lopez-De-Silanes, F., Shleifer, A., & Vishny, R. (2000). Investor protection and corporate governance. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00065-9
+
+La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. W. (2000). Agency problems and dividend policies around the world. *Journal of Finance*. https://doi.org/10.1111/0022-1082.00199
+
+Lin, J., Li, F., Zheng, S. X., & Zhou, M. S. (2023). Minority shareholder voting and dividend policy. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2022.106748
+
+Nenova, T. (2003). The value of corporate voting rights and control: A cross-country analysis. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(03)00069-2
+
+Price, R., Román, F. J., & Rountree, B. (2011). The impact of governance reform on performance and transparency. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2010.08.005
+
+Qin, W., Liang, Q., Jiao, Y., Lu, M., & Shan, Y. (2022). Social Trust and Dividend Payouts: Evidence from China. *Pacific-Basin Finance Journal*. https://doi.org/10.1016/j.pacfin.2022.101726
+
+Shao, L. A., Kwok, C. C. Y., & Guedhami, O. (2010). National culture and dividend policy. *Journal of International Business Studies*. https://doi.org/10.1057/jibs.2009.74
+
+Tao, Q. Z., Wei, K. C. J., Xiang, X. M., & Yi, B. (2022). Board directors? foreign experience and firm dividend payouts. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2022.102237

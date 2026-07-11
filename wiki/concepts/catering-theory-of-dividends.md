@@ -56,3 +56,37 @@ Catering survives as a partial, regime-conditional explanation rather than a set
 - Measures: [[payout-ratio-and-propensity-to-pay]]
 - Synthesis: [[mm-irrelevance-and-payout-puzzles]], [[international-evidence-on-dividends]]
 - Major sources: [[baker-2004-a-catering-theory-of-dividends]], [[baker-2004-appearing-and-disappearing-dividends-the-link-to-catering]], [[hoberg-2009-disappearing-dividends-catering-and-risk]], [[ferris-2009-catering-effects-in-corporate-dividend-policy-the-international]], [[denis-2008-why-do-firms-pay-dividends-international-evidence-on]], [[fama-2001-disappearing-dividends-changing-firm-characteristics-or-lower-propensity]], [[golubov-2020-active-catering-to-dividend-clienteles-evidence-from-takeovers]]
+
+## References
+
+Baker, M., & Wurgler, J. (2004). A catering theory of dividends. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2004.00658.x
+
+Baker, M., & Wurgler, J. (2004). Appearing and disappearing dividends: The link to catering incentives. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2003.08.001
+
+Denis, D. J., & Osobov, I. (2008). Why do firms pay dividends? International evidence on the determinants of dividend policy. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.06.006
+
+Fama, E. F., & French, K. R. (2001). Disappearing dividends: changing firm characteristics or lower propensity to pay?. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(01)00038-1
+
+Fatemi, A., & Bildik, R. (2012). Yes, dividends are disappearing: Worldwide evidence. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2011.10.008
+
+Ferris, S. P., Jayaraman, N., & Sabherwal, S. (2009). Catering effects in corporate dividend policy: The international evidence. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2009.04.005
+
+Golubov, A., Lasfer, M., & Vitkova, V. (2020). Active catering to dividend clienteles: Evidence from takeovers. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2020.04.002
+
+Grullon, G., Paye, B., Underwood, S., & Weston, J. P. (2011). Has the Propensity to Pay Out Declined?. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109010000633
+
+Hoberg, G., & Prabhala, N. R. (2009). Disappearing Dividends, Catering, and Risk. *Review of Financial Studies*. https://doi.org/10.1093/rfs/hhn073
+
+Jiang, Z., Kim, K. A., Lie, E., & Yang, S. (2013). Share repurchases, catering, and dividend substitution. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2013.01.004
+
+Kulchania, M. (2013). Catering driven substitution in corporate payouts. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2013.02.003
+
+Kumar, A., Lei, Z. C., & Zhang, C. D. (2022). Dividend sentiment, catering incentives, and return predictability. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2021.102128
+
+Kuo, J. M., Philip, D., & Zhang, Q. J. (2013). What drives the disappearing dividends phenomenon?. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2013.05.003
+
+Li, W., & Lie, E. (2006). Dividend changes and catering incentives. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2005.03.005
+
+Manconi, A., & Massa, M. (2013). A Servant to Many Masters: Competing Shareholder Preferences and Limits to Catering. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109014000052
+
+Michaely, R., & Moin, A. (2022). Disappearing and reappearing dividends. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2021.06.029

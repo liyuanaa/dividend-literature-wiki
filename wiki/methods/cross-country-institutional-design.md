@@ -53,3 +53,33 @@ Beyond the omitted-variable problem, the recurring pitfalls are treating a legal
 **Synthesis:** [[regulation-governance-and-payout-overview]] · [[international-evidence-on-dividends]]
 
 **Sources:** [[laporta-2000-agency-problems-and-dividend-policies-around-the-world]] · [[laporta-2000-investor-protection-and-corporate-governance]] · [[alzahrani-2012-investor-protection-taxation-and-dividends]] · [[denis-2008-why-do-firms-pay-dividends-international-evidence-on]] · [[ferris-2009-catering-effects-in-corporate-dividend-policy-the-international]]
+
+## References
+
+Alzahrani, M., & Lasfer, M. (2012). Investor protection, taxation, and dividends. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2012.06.003
+
+Bae, K. H., El Ghoul, S., Guedhami, O., & Zheng, X. L. (2021). Board Reforms and Dividend Policy: International Evidence. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109020000319
+
+Breuer, W., Rieger, M. O., & Soypak, K. C. (2014). The behavioral foundations of corporate dividend policy a cross-country analysis. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2014.02.001
+
+Brockman, P., Tresl, J., & Unlu, E. (2014). The impact of insider trading laws on dividend payout policy. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2014.09.002
+
+Chen, R. Y., Guedhami, O., Yang, Y., & Zaynutdinova, G. R. (2020). Corporate governance and cash holdings: Evidence from worldwide board reforms. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2020.101771
+
+Denis, D. J., & Osobov, I. (2008). Why do firms pay dividends? International evidence on the determinants of dividend policy. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2007.06.006
+
+Ellahie, A., & Kaplan, Z. (2021). Show Me the Money! Dividend Policy in Countries with Weak Institutions. *Journal of Accounting Research*. https://doi.org/10.1111/1475-679X.12363
+
+Ferris, S. P., Jayaraman, N., & Sabherwal, S. (2009). Catering effects in corporate dividend policy: The international evidence. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2009.04.005
+
+Glendening, M., Khurana, L. K., & Wang, W. (2016). The market for corporate control and dividend policies: Cross-country evidence from M&A laws. *Journal of International Business Studies*. https://doi.org/10.1057/s41267-016-0028-x
+
+La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. W. (2000). Agency problems and dividend policies around the world. *Journal of Finance*. https://doi.org/10.1111/0022-1082.00199
+
+La Porta, R., Lopez-De-Silanes, F., Shleifer, A., & Vishny, R. (2000). Investor protection and corporate governance. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(00)00065-9
+
+Moortgat, L., Annaert, J., & Deloof, M. (2017). Investor protection, taxation and dividend policy: Long-run evidence, 1838-2012. *Journal of Banking & Finance*. https://doi.org/10.1016/j.jbankfin.2017.08.013
+
+Nenova, T. (2003). The value of corporate voting rights and control: A cross-country analysis. *Journal of Financial Economics*. https://doi.org/10.1016/S0304-405X(03)00069-2
+
+Pinkowitz, L., Stulz, R., & Williamson, R. (2006). Does the contribution of corporate cash holdings and dividends to firm value depend on governance? A cross-country analysis. *Journal of Finance*. https://doi.org/10.1111/j.1540-6261.2006.01003.x

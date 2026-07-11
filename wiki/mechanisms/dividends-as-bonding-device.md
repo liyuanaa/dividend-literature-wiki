@@ -68,3 +68,33 @@ Bonding is not free, and its limits define the mechanism as much as its benefits
 - [[louis-2015-agency-conflicts-dividend-payout-and-the-direct-benefits]]
 - [[zwiebel-1996-dynamic-capital-structure-under-managerial-entrenchment]]
 - [[low-2001-the-link-between-bank-monitoring-and-corporate-dividend]]
+
+## References
+
+Brockman, P., & Unlu, E. (2009). Dividend policy, creditor rights, and the agency costs of debt. *Journal of Financial Economics*. https://doi.org/10.1016/j.jfineco.2008.03.007
+
+Dennis, P. J., & Weston, J. P. (2025). Lazy dividends. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2025.102858
+
+Gugler, K. (2003). Corporate governance, dividend payout policy, and the interrelation between dividends, R&D, and capital investment. *Journal of Banking & Finance*. https://doi.org/10.1016/S0378-4266(02)00258-3
+
+Hu, A. D., & Kumar, P. (2004). Managerial entrenchment and payout policy. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.1017/S0022109000003203
+
+Jensen, G. R., Solberg, D. P., & Zorn, T. S. (1992). Simultaneous Determination of Insider Ownership, Debt, and Dividend Policies. *Journal of Financial and Quantitative Analysis*. https://doi.org/10.2307/2331370
+
+John, K., Knyazeva, A., & Knyazeva, D. (2015). Governance and Payout Precommitment. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2015.05.004
+
+Kanatas, G., & Qi, J. P. (2004). Dividends and debt with managerial agency and lender holdup. *Management Science*. https://doi.org/10.1287/mnsc.1030.0183
+
+La Porta, R., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. W. (2000). Agency problems and dividend policies around the world. *Journal of Finance*. https://doi.org/10.1111/0022-1082.00199
+
+Louis, H., & Urcan, O. (2015). Agency Conflicts, Dividend Payout, and the Direct Benefits of Conservative Financial Reporting to Equity-Holders. *Contemporary Accounting Research*. https://doi.org/10.1111/1911-3846.12085
+
+Low, S. W., Glorfeld, L., Hearth, D., & Rimbey, J. N. (2001). The link between bank monitoring and corporate dividend policy: The case of dividend omissions. *Journal of Banking & Finance*. https://doi.org/10.1016/S0378-4266(00)00170-9
+
+Noronha, G. M., Shome, D. K., & Morgan, G. E. (1996). The monitoring rationale for dividends and the interaction of capital structure and dividend decisions. *Journal of Banking & Finance*. https://doi.org/10.1016/0378-4266(95)00010-0
+
+Sharma, V. (2011). Independent directors and the propensity to pay dividends. *Journal of Corporate Finance*. https://doi.org/10.1016/j.jcorpfin.2011.05.003
+
+Smith, C. W., & Watts, R. L. (1992). The Investment Opportunity Set and Corporate Financing, Dividend, and Compensation Policies. *Journal of Financial Economics*. https://doi.org/10.1016/0304-405X(92)90029-W
+
+Zwiebel, J. (1996). Dynamic capital structure under managerial entrenchment. *American Economic Review*.
