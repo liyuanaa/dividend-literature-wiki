@@ -119,6 +119,9 @@ class Config:
         # WIKI_DIR for the exporter is relative to the repo root.
         self.wiki_dir: str = args.wiki_dir or os.environ.get("WIKI_DIR", "wiki")
         self.python: str = os.environ.get("PYTHON", sys.executable or "python")
+        # On Windows pnpm is a .cmd script; resolve the full path so subprocess
+        # can execute it without shell=True.
+        self.pnpm: str = shutil.which("pnpm") or "pnpm"
         self.skip_install: bool = args.skip_install
         self.skip_build: bool = args.skip_build
         self.verify_only: bool = args.verify_only
@@ -256,7 +259,7 @@ def stage_install(cfg: Config) -> None:
             cwd=REPO_ROOT, stage="pip")
     else:
         warn(f"{reqs} missing — skipping pip install")
-    pnpm_cmd = ["pnpm", "install"]
+    pnpm_cmd = [cfg.pnpm, "install"]
     if cfg.ci:
         pnpm_cmd.append("--frozen-lockfile")
     run(pnpm_cmd, cwd=WEB_DIR, stage="pnpm install")
@@ -319,7 +322,7 @@ def stage_build(cfg: Config) -> None:
     if next_dir.exists():
         # Honor the rebuild→restart caveat: always start from a clean build dir.
         shutil.rmtree(next_dir, ignore_errors=True)
-    run(["pnpm", "build"], cwd=WEB_DIR, env=_web_env(cfg), stage="pnpm build")
+    run([cfg.pnpm, "build"], cwd=WEB_DIR, env=_web_env(cfg), stage="pnpm build")
 
 
 # ===========================================================================
@@ -379,7 +382,7 @@ def stage_frontend(cfg: Config) -> NoReturn:
     log(f"Stage 6/6 — start frontend (pnpm {cfg.mode}) on :{cfg.web_port}")
     script = "dev" if cfg.mode == "dev" else "start"
     env = _web_env(cfg)
-    cmd = ["pnpm", script, "--port", str(cfg.web_port)]
+    cmd = [cfg.pnpm, script, "--port", str(cfg.web_port)]
     log(f"[pnpm {script}] $ {' '.join(cmd)}")
     # Foreground: replace our wait-loop with the frontend process. We still want
     # the signal trap to reap the backend, so run as a child and wait on it.
